@@ -4,14 +4,224 @@
 <head>
   <meta charset="UTF-8">
   <link rel="icon" href="/favicon.ico">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>何聪聪的个人主页</title>
+  <title>何聪聪 🚀 CCcoding365</title>
+  
+  <link rel="stylesheet" href="/assets/index-eefe2503.css">
 </head>
 
-<body oncontextmenu="return false" ondragstart="return false" onbeforecopy="return false"
-  oncopy=document.selection.empty() onselect=document.selection.empty()>
-  <div id="app"></div>
-  <script type="module" src="/src/main.js"></script>
+<body>
+  <header>
+    <div id="navigation_bar">
+      <div class="logo_box">
+        <img src="https://www.hecongcong.com/image/LOGO.png">
+      </div>
+      <nav class="nav_link_box">
+        <span class="nav_link" to="#home">首页</span>
+        <span class="nav_link" to="#about">关于</span>
+        <span class="nav_link" to="#works">作品</span>
+        <span class="nav_link" to="#contact">联系</span>
+      </nav>
+    </div>
+  </header>
+  <main id="page_container">
+    <div id="home">
+      <div id="overview">
+        <h1 class="self_introduction">
+          Aloha! <br />
+          I'm <span>何聪聪</span>
+        </h1>
+        <div class="occupation">Web Front-end Developer.</div>
+      </div>
+    </div>
+    <div id="about" class="chapter">
+      <h1>关于我</h1>
+      <div class="info_card_container">
+        <div class="info_card">
+          <h3>校园经历</h3>
+          <div class="campus_experience">
+            <p>
+              入学是在2017，她的名字IOT。 才知世上物含识，万种智能纷弄姿。示波器、传感器还有路由器， 实验室里焊过锡、烧过单片机，
+              也曾画过PCB、MATLAB跑宕机。
+            </p>
+            <p>
+              我还加入校团体，天天混在部门里。后来当上了管理，工作多得伤不起，好在技术学得紧，工作落到底，领导老师称赞不已。
+            </p>
+          </div>
+        </div>
+        <div class="info_card">
+          <img class="avatar" src="https://www.hecongcong.com/image/ali.jpg">
+          <div class="tag_container">
+            <span>95后</span>
+            <span>天蝎座</span>
+            <span>HQUer</span>
+            <span>工科生</span>
+            <span>程序员</span>
+            <span>Web前端开发</span>
+          </div>
+          <div class="profile_content">
+            <p>
+              生而几载匆匆过，方醒倏忽弱冠年<br />
+              谁人在处望风烟，芸芸众生吾自潜<br />
+              一生半世几千日，浮花绿柳藏胭脂<br />
+              红尘碌碌残心志，如何当得逍遥时
+            </p>
+          </div>
+          <div class="maxim">Do what you love, Love what you do.</div>
+        </div>
+        <div class="info_card">
+          <h3>工作经历</h3>
+          <div class="career_experience">
+            <p>
+              毕业之初到魔都，公司待遇也不输。开始培训分队伍，来到公共组件开发组。先前都是Vue在做主，而今面对React有点怵，幸好前辈同事很好处，遇到困难问清楚，项目开发不怕苦
+            </p>
+            <p>
+              （未完待续……）
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="works" class="chapter">
+      <h1>我的作品</h1>
+      <div class="project_container">
+        <a class="project" href="https://cccoding365.gitee.io/date-calculator/" target="_blank">
+          <img src="https://www.hecongcong.com/image/date-calculator.jpg">
+          <div class="project_info">
+            <h3>
+              日期计算器
+            </h3>
+          </div>
+        </a>
+        <div class="project">
+          <img src="https://www.hecongcong.com/image/project.jpg">
+          <div class="project_info">
+            <h3>
+              开发中···
+            </h3>
+          </div>
+        </div>
+        <div class="project">
+          <img src="https://www.hecongcong.com/image/project.jpg">
+          <div class="project_info">
+            <h3>
+              开发中···
+            </h3>
+          </div>
+        </div>
+        <a class="project">
+          <img src="https://www.hecongcong.com/image/project.jpg">
+          <div class="project_info">
+            <h3>
+              开发中···
+            </h3>
+          </div>
+        </a>
+        <div class="project">
+          <img src="https://www.hecongcong.com/image/project.jpg">
+          <div class="project_info">
+            <h3>
+              开发中···
+            </h3>
+          </div>
+        </div>
+        <div class="project">
+          <img src="https://www.hecongcong.com/image/project.jpg">
+          <div class="project_info">
+            <h3>
+              开发中···
+            </h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="contact" class="chapter">
+      <h1>与我联系</h1>
+    </div>
+  </main>
+  <footer>
+    <a> &#169; All Rights Reserved DoubledConG @2023</a>
+    <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备2023000976号-1</a>
+  </footer>
 </body>
+<script>
+  // 监听页面滚动 当向下滚动导航栏高度时 将导航栏背景设置为毛玻璃
+  window.addEventListener('scroll', () => {
+    const scrollTop = document.documentElement.scrollTop
+    const navigation_bar_classList = document.getElementById('navigation_bar').classList
+    if (scrollTop > 100) {
+      navigation_bar_classList.add('fixed');
+    } else {
+      navigation_bar_classList.remove('fixed');
+    }
+  })
+
+  // 为导航链接绑定点击事件 使得页面滚动到对应位置
+  document.querySelector('.nav_link_box').addEventListener('click', (e) => {
+    const target = e.target.getAttribute('to')
+    document.documentElement.scrollTo({
+      top: document.querySelector(target).offsetTop - 100,
+      behavior: "smooth"
+    })
+  })
+
+  // 关于 3D旋转效果
+  // window.onload = () => {
+  //   //1.获取元素
+  //   const cardContainer = document.querySelector('.info_card_container');
+  //   const cardList = cardContainer.children;
+  //   const deg = 360 / cardList.length;
+  //   // 定义一个开始的度数
+  //   let roX = 0;
+  //   let roY = 0;
+  //   let x, y, x_, y_, xN, yN, time = null;
+  //   // 2.遍历卡片
+  //   for (let i = 0; i < cardList.length; i++) {
+  //     cardList[i].ondragstart = () => false;
+  //     cardList[i].style.transform = 'rotateY(' + i * deg + 'deg) translateZ(200px)';
+  //     cardList[i].style.transition = 'all 1s ' + (cardList.length - i - 1) * 0.1 + 's';
+  //   }
+  //   // 3.事件处理
+  //   document.onmousedown = (e) => {
+  //     clearInterval(time);
+  //     e = e || window.event;
+  //     x_ = e.clientX;
+  //     y_ = e.clientY;
+  //     this.onmousemove = (e) => {
+  //       e = e || window.event;
+  //       //获取滚动的X和Y轴
+  //       //client:鼠标触发点相对于页面可视区域左上角距离
+  //       x = e.clientX;
+  //       y = e.clientY;
+  //       //两点之间的差值:第一次走的时候两值相等,第二次走的时候x已经更新,但x_没更新,所以两个差值就是xN;
+  //       xN = x - x_;
+  //       yN = y - y_;
+  //       //差值拼接到旋转的Y里面去
+  //       roY += xN * 0.2;
+  //       roX -= yN * 0.2;
+  //       cardContainer.style.transform = 'perspective(1000px) rotateX(' + roX + 'deg) rotateY(' + roY + 'deg)';
+  //       x_ = e.clientX;
+  //       y_ = e.clientY;
+  //     }
+  //     this.onmouseup = () => {
+  //       this.onmousemove = null;
+  //       //设置一个定时器,实现后面惯性效果
+  //       time = setInterval(() => {
+  //         //无限乘以0.95它会接近0的状态
+  //         xN *= 0.95;
+  //         yN *= 0.95;
+  //         //当它小到0.1时停止计时器
+  //         if (Math.abs(xN) < 0.1 && Math.abs(yN) < 0.1) clearInterval(time);
+  //         //差值拼接到旋转的Y里面去
+  //         roY += xN * 0.2;
+  //         roX -= yN * 0.2;
+  //         cardContainer.style.transform = 'perspective(1000px) rotateX(' + roX + 'deg) rotateY(' + roY + 'deg)';
+  //       }, 30)
+  //     }
+  //   }
+  // }
+
+</script>
 
 </html>

@@ -8,15 +8,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>何聪聪 🚀 CCcoding365</title>
   
-  <link rel="stylesheet" href="/assets/index-eefe2503.css">
+  <script type="module" crossorigin src="/assets/index-08f4f0a8.js"></script>
+  <link rel="stylesheet" href="/assets/index-b8dec20b.css">
 </head>
 
-<body>
+<body oncontextmenu="return false">
   <header>
     <div id="navigation_bar">
       <div class="logo_box">
         <img src="https://www.hecongcong.com/image/LOGO.png">
       </div>
+      <div class="nav_link_btn"></div>
       <nav class="nav_link_box">
         <span class="nav_link" to="#home">首页</span>
         <span class="nav_link" to="#about">关于</span>
@@ -145,83 +147,6 @@
     <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备2023000976号-1</a>
   </footer>
 </body>
-<script>
-  // 监听页面滚动 当向下滚动导航栏高度时 将导航栏背景设置为毛玻璃
-  window.addEventListener('scroll', () => {
-    const scrollTop = document.documentElement.scrollTop
-    const navigation_bar_classList = document.getElementById('navigation_bar').classList
-    if (scrollTop > 100) {
-      navigation_bar_classList.add('fixed');
-    } else {
-      navigation_bar_classList.remove('fixed');
-    }
-  })
 
-  // 为导航链接绑定点击事件 使得页面滚动到对应位置
-  document.querySelector('.nav_link_box').addEventListener('click', (e) => {
-    const target = e.target.getAttribute('to')
-    document.documentElement.scrollTo({
-      top: document.querySelector(target).offsetTop - 100,
-      behavior: "smooth"
-    })
-  })
-
-  // 关于 3D旋转效果
-  // window.onload = () => {
-  //   //1.获取元素
-  //   const cardContainer = document.querySelector('.info_card_container');
-  //   const cardList = cardContainer.children;
-  //   const deg = 360 / cardList.length;
-  //   // 定义一个开始的度数
-  //   let roX = 0;
-  //   let roY = 0;
-  //   let x, y, x_, y_, xN, yN, time = null;
-  //   // 2.遍历卡片
-  //   for (let i = 0; i < cardList.length; i++) {
-  //     cardList[i].ondragstart = () => false;
-  //     cardList[i].style.transform = 'rotateY(' + i * deg + 'deg) translateZ(200px)';
-  //     cardList[i].style.transition = 'all 1s ' + (cardList.length - i - 1) * 0.1 + 's';
-  //   }
-  //   // 3.事件处理
-  //   document.onmousedown = (e) => {
-  //     clearInterval(time);
-  //     e = e || window.event;
-  //     x_ = e.clientX;
-  //     y_ = e.clientY;
-  //     this.onmousemove = (e) => {
-  //       e = e || window.event;
-  //       //获取滚动的X和Y轴
-  //       //client:鼠标触发点相对于页面可视区域左上角距离
-  //       x = e.clientX;
-  //       y = e.clientY;
-  //       //两点之间的差值:第一次走的时候两值相等,第二次走的时候x已经更新,但x_没更新,所以两个差值就是xN;
-  //       xN = x - x_;
-  //       yN = y - y_;
-  //       //差值拼接到旋转的Y里面去
-  //       roY += xN * 0.2;
-  //       roX -= yN * 0.2;
-  //       cardContainer.style.transform = 'perspective(1000px) rotateX(' + roX + 'deg) rotateY(' + roY + 'deg)';
-  //       x_ = e.clientX;
-  //       y_ = e.clientY;
-  //     }
-  //     this.onmouseup = () => {
-  //       this.onmousemove = null;
-  //       //设置一个定时器,实现后面惯性效果
-  //       time = setInterval(() => {
-  //         //无限乘以0.95它会接近0的状态
-  //         xN *= 0.95;
-  //         yN *= 0.95;
-  //         //当它小到0.1时停止计时器
-  //         if (Math.abs(xN) < 0.1 && Math.abs(yN) < 0.1) clearInterval(time);
-  //         //差值拼接到旋转的Y里面去
-  //         roY += xN * 0.2;
-  //         roX -= yN * 0.2;
-  //         cardContainer.style.transform = 'perspective(1000px) rotateX(' + roX + 'deg) rotateY(' + roY + 'deg)';
-  //       }, 30)
-  //     }
-  //   }
-  // }
-
-</script>
 
 </html>

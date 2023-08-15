@@ -1,6 +1,6 @@
-<h1 align="center">𝑯𝒊, 𝑰'𝒎 𝑫𝒐𝒖𝒃𝒍𝒆𝒅𝑪𝒐𝒏𝒈 !</h1>
-<h2 align="center">𝒂 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h2>
-<a href="https://hecongcong.com/"><p align="center">𝑽𝒊𝒔𝒊𝒕𝒐𝒓 𝒄𝒐𝒖𝒏𝒕<br/><br/><img src="https://profile-counter.glitch.me/cccoding365/count.svg" /></a>
+<h1>𝑯𝒊, 𝑰'𝒎 𝑫𝒐𝒖𝒃𝒍𝒆𝒅𝑪𝒐𝒏𝒈 !</h1>
+<h2>𝒂 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h2>
+𝑽𝒊𝒔𝒊𝒕𝒐𝒓 𝒄𝒐𝒖𝒏𝒕 :<br/><br/><img src="https://profile-counter.glitch.me/cccoding365/count.svg" />
 
 ## 𝑴𝒚 𝑻𝒆𝒄𝒌 𝑺𝒕𝒂𝒄𝒌
 

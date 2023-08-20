@@ -1,4 +1,4 @@
-<h1>Hi, I am DoubledConG,<span> A Font-end Engineer.</span></h1>
+<h1>Hi, I am DoubledConG,<span> a Font-end developer.</span></h1>
 
 - **Tech Stack:**
 

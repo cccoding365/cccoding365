@@ -1,7 +1,6 @@
-<h1>𝑯𝒊, 𝑰'𝒎 𝑫𝒐𝒖𝒃𝒍𝒆𝒅𝑪𝒐𝒏𝒈 ,<span> 𝒂 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </span></h1>
-𝑽𝒊𝒔𝒊𝒕𝒐𝒓 𝒄𝒐𝒖𝒏𝒕 :<br/><br/><img src="https://profile-counter.glitch.me/cccoding365/count.svg" />
+<h1>Hi, I am DoubledConG,<span> A Font-end Engineer.</span></h1>
 
-## 𝑴𝒚 𝑻𝒆𝒄𝒌 𝑺𝒕𝒂𝒄𝒌
+## Tech Stack
 
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=hecongcong.com&url=https%3a%2f%2fhecongcong.com)](https://hecongcong.com)
@@ -29,3 +28,5 @@
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
+## Visitor Counts: <br/><br/><img src="https://profile-counter.glitch.me/cccoding365/count.svg" />

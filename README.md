@@ -7,7 +7,7 @@
 <h2 align="center">Things I use</h2>
 <p align="center">
 <img alt="VSCode" src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img alt="Website" src="https://img.shields.io/website?color=0a79e6&style=flat-square&up_message=hecongcong.com&url=https%3a%2f%2fhecongcong.com" />
+<img alt="Website" src="https://img.shields.io/website?color=0a79e6&style=flat-square&up_message=www.hecongcong.com&url=https%3a%2f%2fhecongcong.com" />
 <br />
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"/>
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3"/>

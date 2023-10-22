@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey! Nice to meet you.</h1>
 <p align="center">
-<span>I'm DoubledConG, Front end developer from</span>
+<span>I'm DoubledConG, Frontend developer from</span>
 <img src="https://cdn-icons-png.flaticon.com/128/197/197375.png" width="14"/> <b>China</b>.
 </p>
 

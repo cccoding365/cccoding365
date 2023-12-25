@@ -21,7 +21,6 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-%231572B6?style=flat-square&logo=Express&logoColor=white" />
 <br />
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack"/>
 <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint" />
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-E10098?style=flat-square&logo=styled-components&logoColor=white" />

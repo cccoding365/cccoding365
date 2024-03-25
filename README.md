@@ -14,16 +14,16 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <br />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img alt="Less" src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less&logoColor=white" />
 <img alt="Vue" src="https://img.shields.io/badge/-Vue-%232c3e50?style=flat-square&logo=Vue.js"/>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="Less" src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less&logoColor=white" />
+<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-E10098?style=flat-square&logo=styled-components&logoColor=white" />
+<br />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-%231572B6?style=flat-square&logo=Express&logoColor=white" />
-<br />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack"/>
 <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint" />
-<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-E10098?style=flat-square&logo=styled-components&logoColor=white" />
 <br />
 <img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />

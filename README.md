@@ -4,7 +4,7 @@
 <img src="https://cdn-icons-png.flaticon.com/128/197/197375.png" width="14"/> <b>China</b>.
 </p>
 
-<h2 align="left">Things I use</h2>
+<h2 align="center">Things I use</h2>
 <p align="center">
 <img alt="VSCode" src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <img alt="Website" src="https://img.shields.io/website?color=a46092&style=flat-square&up_message=https://www.hecongcong.com&url=https%3a%2f%2fhecongcong.com" />

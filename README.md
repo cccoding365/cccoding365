@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey! Nice to meet you.</h1>
+<h1 align="center">👋 HI! NICE TO MEET U.</h1>
 <p align="center">
 <span>I'm DoubledConG, junior frontend developer from</span>
 <img src="https://cdn-icons-png.flaticon.com/128/197/197375.png" width="14"/> <b>China</b>.

@@ -42,11 +42,11 @@
 
 <p>
     This <b>README</b> file is generated <b>every 6 hours</b>!<br />
-    Last refresh: Sunday, October 20, 7:10 AM<br />
+    Last refresh: Sunday, 10&#x2F;20&#x2F;2024, 03:21 PM China Standard Time<br />
 </p>
 
 <p>
-    <img src="https://img.shields.io/github/actions/workflow/status/cccoding365/cccoding365/workflow" /> 
+    <img src="https://github.com/cccoding365/cccoding365/workflows/README%20build/badge.svg" /> 
     <img alt="Stars" src="https://img.shields.io/github/stars/cccoding365/cccoding365?style=flat-square&labelColor=343b41"/> 
     <img alt="Forks" src="https://img.shields.io/github/forks/cccoding365/cccoding365?style=flat-square&labelColor=343b41"/>
 </p>

@@ -32,7 +32,7 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<h2>Visitor counts</h2>
+<h2>Visit times</h2>
 
 <p>
     <img src="https://profile-counter.glitch.me/cccoding365/count.svg" height="30" />
@@ -42,7 +42,7 @@
 
 <p>
     This <b>README</b> file is generated <b>every 6 hours</b>!<br />
-    Last refresh: Sunday, October 20, 7:04 AM<br />
+    Last refresh: Sunday, October 20, 7:10 AM<br />
 </p>
 
 <p>

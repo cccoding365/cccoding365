@@ -1,13 +1,19 @@
 {
   "name": "cccoding365",
   "version": "1.0.0",
-  "description": "",
+  "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
+  "author": "DoubledConG",
   "license": "ISC",
   "dependencies": {
     "mustache": "^4.2.0"

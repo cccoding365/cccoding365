@@ -10,7 +10,7 @@
     currently living in <b>Amoy</b>.
 </p>
 
-<h2>Things I code with</h2>
+<h3>Things I code with</h3>
 
 <p>
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"/>
@@ -32,7 +32,7 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<h2>Visit times</h2>
+<h3>Visit times</h3>
 
 <p>
     <img src="https://profile-counter.glitch.me/cccoding365/count.svg" height="30" />
@@ -42,7 +42,7 @@
 
 <p>
     This <b>README</b> file is generated <b>every 6 hours</b>!<br />
-    Last refresh: Sunday, 10&#x2F;20&#x2F;2024, 03:21 PM China Standard Time<br />
+    Last refresh: Sunday, 10&#x2F;20&#x2F;2024, 15:26 China Standard Time<br />
 </p>
 
 <p>

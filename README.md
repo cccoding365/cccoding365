@@ -4,15 +4,16 @@
 </h1>
 
 <p>
-    I'm DoubledConG, a front-end developer from 
-    <img src="https://cdn-icons-png.flaticon.com/128/197/197375.png" width="14"/> 
-    <b>China</b>, 
-    currently living in <b>Amoy</b>.
+    I'm DoubledConG, a passionate front-end developer with a strong love for creating engaging and user-friendly web interfaces.
+    <br />
+    My journey in the world of front-end development began with a simple curiosity about how websites are built. Over time, this curiosity has transformed into a deep-seated passion, driving me to continuously learn and improve my skills.
+    <br />
+    If you're interested in my work or just want to chat about front-end development, feel free to reach out to me. Let's build something amazing together!
 </p>
 
 <p>
     This <b>README</b> file is generated <b>every 6 hours</b>!<br />
-    Last refresh: Monday, March 31, 2025, 21:17:06 GMT+8<br />
+    Last refresh: Monday, March 31, 2025, 21:30:18 GMT+8<br />
 </p>
 
 <p>

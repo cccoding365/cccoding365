@@ -15,8 +15,8 @@ const headers = {
   * Notice the "name" and "date" property.
 */
 let DATA = {
-  name: 'DoubledConG',
-  date: new Date().toLocaleDateString('en-US', {
+  name: '小葱伴逗虎',
+  date: new Date().toLocaleDateString('zh-CN', {
     weekday: 'long',
     year: 'numeric',
     month: 'long',

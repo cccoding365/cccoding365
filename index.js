@@ -3,7 +3,7 @@ const axios = require('axios');
 const Mustache = require('mustache');
 const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
-const url = 'https://v1.hitokoto.cn/?c=f&encode=text';
+const url = 'https://v1.hitokoto.cn/?c=j&c=k&encode=json';
 const headers = {
   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
   'Accept': 'text/plain'
@@ -37,8 +37,8 @@ let DATA = {
 function generateReadMe() {
   fs.readFile(MUSTACHE_MAIN_DIR, async (err, data) => {
     if (err) throw err;
-    const { data: text } = await axios.get(url, { headers });
-    const output = Mustache.render(data.toString(), { ...DATA, text });
+    const { data: { hitokoto: text, from_who: author } } = await axios.get(url, { headers });
+    const output = Mustache.render(data.toString(), { ...DATA, text, author });
     fs.writeFileSync('README.md', output);
   });
 }

@@ -11,9 +11,11 @@
     If you're interested in my work or just want to chat about front-end development, feel free to reach out to me. Let's build something amazing together!
 </p>
 
+<p>人只能赚自己认知范围内的钱，也只能拥有自己认知范围内的生活。</p>
+
 <p>
     This <b>README</b> file is generated <b>every 6 hours</b>!<br />
-    Last refresh: Tuesday, May 27, 2025, 20:53:41 GMT+8<br />
+    Last refresh: Tuesday, May 27, 2025, 21:22:03 GMT+8<br />
 </p>
 
 <p>

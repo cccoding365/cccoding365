@@ -17,6 +17,6 @@
   "license": "ISC",
   "dependencies": {
     "mustache": "^4.2.0",
-    "axios":"1.9.0"
+    "axios": "1.9.0"
   }
 }

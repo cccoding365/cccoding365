@@ -23,6 +23,10 @@ jobs:
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Force clear existing node_modules and cache
+        run: |
+          rm -rf node_modules
+          rm -f package-lock.json
       - name: Install dependencies
         run: | 
           echo "Running npm install..."

@@ -24,6 +24,10 @@ jobs:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
       - name: Install dependencies
+        run: | 
+          echo "Running npm install..."
+          npm install
+          echo "npm install completed."
         run: npm install
       - name: Generate README file
         run: node index.js

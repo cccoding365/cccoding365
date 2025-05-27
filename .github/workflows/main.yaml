@@ -18,10 +18,11 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '13.x'
-      - name: Force clear existing node_modules and cache
-        run: |
-          rm -rf node_modules
-          rm -f package-lock.json
+      - name: Cache dependencies and build outputs to improve workflow execution time.
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
       - name: Install dependencies
         run: npm install
       - name: Generate README file

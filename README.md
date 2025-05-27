@@ -1,21 +1,21 @@
 <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="25"/> 
-    Hello! Nice to meet you.
+    你好！欢迎来到我的 GitHub 主页。
 </h1>
 
 <p>
-    I'm DoubledConG, a passionate front-end developer with a strong love for creating engaging and user-friendly web interfaces.
-    <br /><br />
-    My journey in the world of front-end development began with a simple curiosity about how websites are built. Over time, this curiosity has transformed into a deep-seated passion, driving me to continuously learn and improve my skills.
-    <br /><br />
-    If you're interested in my work or just want to chat about front-end development, feel free to reach out to me. Let's build something amazing together!
+    我是小葱伴逗虎，一个充满奇思妙想的程序员，目前在中国厦门从事移动端开发。<br />
+    在工作之余，用代码去做一些有趣的项目，我为自己正在做的事情感到自豪，也许改变世界很难，但是做点有意思的事情刚刚好。 <br />
+    如果你对我的项目感兴趣，欢迎与我联系！<br />
 </p>
 
-<p>人只能赚自己认知范围内的钱，也只能拥有自己认知范围内的生活。</p>
+<p>
+    短语分享：<b>「对于讨厌的人不要想改变他，远离他才是上策。」</b>
+</p>
 
 <p>
-    This <b>README</b> file is generated <b>every 6 hours</b>!<br />
-    Last refresh: Tuesday, May 27, 2025, 21:22:03 GMT+8<br />
+    这个 <b>README</b> 文件每 <b>6</b> 个小时自动更新！<br />
+    最近更新：2025年5月27日星期二 GMT+8 21:40:20<br />
 </p>
 
 <p>

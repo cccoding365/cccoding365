@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「在永恒与虚无之间，为你沉默。」</b>
+     <b>「龙应该藏在云，你应该藏在心里。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 25°C, <i>few clouds</i></b></br>Today, the sun rises at
-     <b>05:55</b> and sets at <b>18:07</b>.
+     Currently, the weather is: <b> 28°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     <b>05:55 AM</b> and sets at <b>06:07 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, September 20, 2025 at 20:51:44 GMT+8
+     Last refresh: Saturday, September 20, 2025, 21:08:04 GMT+8
 </p>
 
 <p>

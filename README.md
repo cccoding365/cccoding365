@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「每一个不曾起舞的日子，都是对生活的辜负！」</b>
+     <b>「殷勤昨夜三更雨，又得浮生一日凉。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 28°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 29°C, <i>few clouds</i></b></br>Today, the sun rises at
      <b>05:55 AM</b> and sets at <b>06:05 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, September 21, 2025, 04:14:34 GMT+8
+     Last refresh: Sunday, September 21, 2025, 09:17:05 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「什么样的人都有，包括完美的人和完美的女人，只是你无缘遇到。」</b>
+     <b>「取法于上，仅得为中；取法于中，故为其下。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 32°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 30°C, <i>broken clouds</i></b></br>Today, the sun rises at
      <b>05:56 AM</b> and sets at <b>06:04 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, September 22, 2025, 16:22:06 GMT+8
+     Last refresh: Monday, September 22, 2025, 20:32:42 GMT+8
 </p>
 
 <p>

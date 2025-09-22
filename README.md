@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「取法于上，仅得为中；取法于中，故为其下。」</b>
+     <b>「所谓世人，不就是你吗？」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 30°C, <i>broken clouds</i></b></br>Today, the sun rises at
-     <b>05:56 AM</b> and sets at <b>06:04 PM</b>.
+     Currently, the weather is: <b> 30°C, <i>few clouds</i></b></br>Today, the sun rises at
+     <b>05:56 AM</b> and sets at <b>06:03 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, September 22, 2025, 20:32:42 GMT+8
+     Last refresh: Tuesday, September 23, 2025, 00:20:13 GMT+8
 </p>
 
 <p>

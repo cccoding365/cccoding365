@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「忘记了过去，就意味着背叛！」</b>
+     <b>「有时你飞到了头，却发现还不如中间掉下来。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 31°C, <i>scattered clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 27°C, <i>scattered clouds</i></b></br>Today, the sun rises at
      <b>05:56 AM</b> and sets at <b>06:03 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, September 23, 2025, 16:20:40 GMT+8
+     Last refresh: Tuesday, September 23, 2025, 20:31:47 GMT+8
 </p>
 
 <p>

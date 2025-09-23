@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「入我相思门，知我相思苦。」</b>
+     <b>「纵使天光终将熄灭，我们也要歌颂太阳。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 27°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 26°C, <i>light intensity shower rain</i></b></br>Today, the sun rises at
      <b>05:56 AM</b> and sets at <b>06:02 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, September 24, 2025, 00:20:05 GMT+8
+     Last refresh: Wednesday, September 24, 2025, 04:17:00 GMT+8
 </p>
 
 <p>

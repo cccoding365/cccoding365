@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「天长地久有时尽，此恨绵绵无绝期。」</b>
+     <b>「好好学习，天天向上。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 28°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 25°C, <i>light rain</i></b></br>Today, the sun rises at
      <b>05:57 AM</b> and sets at <b>06:01 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, September 25, 2025, 00:20:14 GMT+8
+     Last refresh: Thursday, September 25, 2025, 04:17:33 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「人能够能动地认识世界；人能够能动地改造世界。」</b>
+     <b>「人类侥幸拥有了智慧，就应该善用它。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 27°C, <i>heavy intensity rain</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 27°C, <i>light rain</i></b></br>Today, the sun rises at
      <b>05:56 AM</b> and sets at <b>06:02 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, September 24, 2025, 09:10:48 GMT+8
+     Last refresh: Wednesday, September 24, 2025, 12:18:29 GMT+8
 </p>
 
 <p>

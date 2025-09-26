@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「秦时明月汉时关，万里长征人未还。」</b>
+     <b>「君子不器。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 33°C, <i>few clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 29°C, <i>moderate rain</i></b></br>Today, the sun rises at
      <b>05:57 AM</b> and sets at <b>06:00 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, September 26, 2025, 16:21:44 GMT+8
+     Last refresh: Friday, September 26, 2025, 20:32:21 GMT+8
 </p>
 
 <p>

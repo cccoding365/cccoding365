@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「君子不器。」</b>
+     <b>「一别如斯，落尽梨花月又西。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 29°C, <i>moderate rain</i></b></br>Today, the sun rises at
-     <b>05:57 AM</b> and sets at <b>06:00 PM</b>.
+     Currently, the weather is: <b> 29°C, <i>clear sky</i></b></br>Today, the sun rises at
+     <b>05:57 AM</b> and sets at <b>05:59 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, September 26, 2025, 20:32:21 GMT+8
+     Last refresh: Saturday, September 27, 2025, 00:19:23 GMT+8
 </p>
 
 <p>

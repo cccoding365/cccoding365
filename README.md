@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「野蛮人之间人吃人，文明人之间人骗人。」</b>
+     <b>「不管风吹浪打，胜似闲庭信步。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 27°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 27°C, <i>few clouds</i></b></br>Today, the sun rises at
      <b>05:59 AM</b> and sets at <b>05:56 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, September 30, 2025, 00:16:33 GMT+8
+     Last refresh: Tuesday, September 30, 2025, 04:16:26 GMT+8
 </p>
 
 <p>

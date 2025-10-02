@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「众里寻他千百度。蓦然回首，那人却在，灯火阑珊处。」</b>
+     <b>「镇生者之魂，安亡者之心，赎未亡之罪，轮未竟之回。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 32°C, <i>scattered clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 31°C, <i>broken clouds</i></b></br>Today, the sun rises at
      <b>05:59 AM</b> and sets at <b>05:54 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, October 02, 2025, 12:17:54 GMT+8
+     Last refresh: Thursday, October 02, 2025, 16:20:20 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「我们一路奋战，不是为了改变世界，而是为了不让世界改变我们。」</b>
+     <b>「众里寻他千百度。蓦然回首，那人却在，灯火阑珊处。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 29°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 32°C, <i>scattered clouds</i></b></br>Today, the sun rises at
      <b>05:59 AM</b> and sets at <b>05:54 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, October 02, 2025, 09:09:30 GMT+8
+     Last refresh: Thursday, October 02, 2025, 12:17:54 GMT+8
 </p>
 
 <p>

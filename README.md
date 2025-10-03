@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「三更灯火五更鸡，正是男儿读书时。」</b>
+     <b>「内心湛然，则无往而不乐。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 31°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 29°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:00 AM</b> and sets at <b>05:53 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, October 03, 2025, 16:19:39 GMT+8
+     Last refresh: Friday, October 03, 2025, 20:31:20 GMT+8
 </p>
 
 <p>

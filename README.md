@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「空不是无，空是一种存在，你得用空这种存在填满自己。」</b>
+     <b>「到底要被救多少次，才会甘心啊！？」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 35°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 30°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:01 AM</b> and sets at <b>05:49 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, October 07, 2025, 16:21:23 GMT+8
+     Last refresh: Tuesday, October 07, 2025, 20:33:24 GMT+8
 </p>
 
 <p>

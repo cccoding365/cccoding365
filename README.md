@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「许多念念不忘，只是一瞬；许多一瞬，却是念念不忘。」</b>
+     <b>「多少事，从来急，天地转，光阴迫，一万年太久，只争朝夕。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 30°C, <i>few clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 31°C, <i>scattered clouds</i></b></br>Today, the sun rises at
      <b>06:02 AM</b> and sets at <b>05:47 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, October 09, 2025, 09:10:59 GMT+8
+     Last refresh: Thursday, October 09, 2025, 12:19:16 GMT+8
 </p>
 
 <p>

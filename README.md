@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「出入相友，守望相助。」</b>
+     <b>「生活百般滋味，人生需要笑对。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 32°C, <i>few clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 29°C, <i>few clouds</i></b></br>Today, the sun rises at
      <b>06:02 AM</b> and sets at <b>05:46 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, October 10, 2025, 16:20:46 GMT+8
+     Last refresh: Friday, October 10, 2025, 20:32:35 GMT+8
 </p>
 
 <p>

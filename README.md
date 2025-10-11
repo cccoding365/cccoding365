@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「缺月挂疏桐，漏断人初静。」</b>
+     <b>「多少事，从来急，天地转，光阴迫，一万年太久，只争朝夕。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 29°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 30°C, <i>scattered clouds</i></b></br>Today, the sun rises at
      <b>06:03 AM</b> and sets at <b>05:45 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, October 11, 2025, 09:08:09 GMT+8
+     Last refresh: Saturday, October 11, 2025, 12:17:32 GMT+8
 </p>
 
 <p>

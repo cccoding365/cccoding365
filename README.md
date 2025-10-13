@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「一往情深深几许？深山夕照深秋雨。」</b>
+     <b>「不为成仙，只为在这红尘中等你归来！」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 32°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 31°C, <i>few clouds</i></b></br>Today, the sun rises at
      <b>06:04 AM</b> and sets at <b>05:43 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, October 13, 2025, 12:19:18 GMT+8
+     Last refresh: Monday, October 13, 2025, 16:22:56 GMT+8
 </p>
 
 <p>

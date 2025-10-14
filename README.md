@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「大鹏一日同风起，扶摇直上九万里。」</b>
+     <b>「一个人的坚强不是看他外壳有多硬，而是看他的疤痕有多深。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 27°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 26°C, <i>few clouds</i></b></br>Today, the sun rises at
      <b>06:05 AM</b> and sets at <b>05:41 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, October 15, 2025, 00:19:56 GMT+8
+     Last refresh: Wednesday, October 15, 2025, 04:17:26 GMT+8
 </p>
 
 <p>

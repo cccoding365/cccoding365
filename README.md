@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「流光容易把人抛，红了樱桃，绿了芭蕉。」</b>
+     <b>「早知如此绊人心，何如当初莫相识。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 29°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 27°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:05 AM</b> and sets at <b>05:40 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, October 16, 2025, 00:17:28 GMT+8
+     Last refresh: Thursday, October 16, 2025, 04:18:21 GMT+8
 </p>
 
 <p>

@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「为天地立心，为生民立命，为往圣继绝学，为万世开太平。」</b>
+     <b>「身既死兮神以灵，魂魄毅兮为鬼雄。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, October 17, 2025, 00:20:34 GMT+8
+     Last refresh: Friday, October 17, 2025, 04:17:43 GMT+8
 </p>
 
 <p>

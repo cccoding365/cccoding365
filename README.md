@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「生活中最重要的不是凯旋，而是奋斗。」</b>
+     <b>「以有涯随无涯，殆已！已而为知者，殆而已矣！」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, October 16, 2025, 12:18:19 GMT+8
+     Last refresh: Thursday, October 16, 2025, 16:22:31 GMT+8
 </p>
 
 <p>

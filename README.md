@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「胜固欣然，败亦可喜。」</b>
+     <b>「江南无所有，聊赠一枝春。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 29°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 26°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:07 AM</b> and sets at <b>05:37 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, October 19, 2025, 00:17:17 GMT+8
+     Last refresh: Sunday, October 19, 2025, 04:15:33 GMT+8
 </p>
 
 <p>

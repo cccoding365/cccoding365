@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「生而为人，我很抱歉。」</b>
+     <b>「一个人可以被毁灭，但不能被打败。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, October 21, 2025, 00:19:39 GMT+8
+     Last refresh: Tuesday, October 21, 2025, 04:18:18 GMT+8
 </p>
 
 <p>

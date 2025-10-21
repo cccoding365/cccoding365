@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「泉涸，鱼相与处于陆，相呴以湿，相濡以沫，不如相忘于江湖。」</b>
+     <b>「寒夜客来茶当酒，竹炉汤沸火初红。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 24°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 23°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>06:08 AM</b> and sets at <b>05:36 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, October 21, 2025, 12:19:06 GMT+8
+     Last refresh: Tuesday, October 21, 2025, 16:22:35 GMT+8
 </p>
 
 <p>

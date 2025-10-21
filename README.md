@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「一个人可以被毁灭，但不能被打败。」</b>
+     <b>「我更喜欢死的历史。死的历史用墨水书写，活的历史则用鲜血。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 24°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 22°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>06:08 AM</b> and sets at <b>05:36 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, October 21, 2025, 04:18:18 GMT+8
+     Last refresh: Tuesday, October 21, 2025, 09:14:22 GMT+8
 </p>
 
 <p>

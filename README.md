@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「寒夜客来茶当酒，竹炉汤沸火初红。」</b>
+     <b>「熬得住无人问津的日子，方可配得起诗和远方。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, October 21, 2025, 16:22:35 GMT+8
+     Last refresh: Tuesday, October 21, 2025, 20:34:22 GMT+8
 </p>
 
 <p>

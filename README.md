@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「山一程，水一程，身向榆关那畔行，夜深千帐灯。」</b>
+     <b>「信心这个东西，什么时候都像个高楼大厦，但是里面会长白蚁。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 25°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 23°C, <i>broken clouds</i></b></br>Today, the sun rises at
      <b>06:08 AM</b> and sets at <b>05:35 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, October 22, 2025, 16:23:29 GMT+8
+     Last refresh: Wednesday, October 22, 2025, 20:34:53 GMT+8
 </p>
 
 <p>

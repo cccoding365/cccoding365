@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「为遇一人而入红尘，人去我亦去，此生不留尘。」</b>
+     <b>「生当作人杰，死亦为鬼雄。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 24°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 25°C, <i>broken clouds</i></b></br>Today, the sun rises at
      <b>06:09 AM</b> and sets at <b>05:34 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, October 23, 2025, 12:19:13 GMT+8
+     Last refresh: Thursday, October 23, 2025, 16:22:12 GMT+8
 </p>
 
 <p>

@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「你们认为没有路，是因为没有学会不择手段。」</b>
+     <b>「冲动，绝不是真正英雄的性格。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 25°C, <i>overcast clouds</i></b></br>Today, the sun rises at
-     <b>06:09 AM</b> and sets at <b>05:33 PM</b>.
+     Currently, the weather is: <b> 24°C, <i>scattered clouds</i></b></br>Today, the sun rises at
+     <b>06:10 AM</b> and sets at <b>05:33 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, October 24, 2025, 20:34:55 GMT+8
+     Last refresh: Saturday, October 25, 2025, 00:19:50 GMT+8
 </p>
 
 <p>

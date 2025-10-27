@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「用我一生，换你十年天真无邪。」</b>
+     <b>「我要赢一壶酒，拿来娶你。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, October 28, 2025, 00:21:02 GMT+8
+     Last refresh: Tuesday, October 28, 2025, 04:15:25 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「行远自迩，登高自卑。」</b>
+     <b>「怕相思，已相思，轮到相思没处辞，眉间露一丝。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 25°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 23°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>06:11 AM</b> and sets at <b>05:30 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, October 28, 2025, 12:18:50 GMT+8
+     Last refresh: Tuesday, October 28, 2025, 16:22:04 GMT+8
 </p>
 
 <p>

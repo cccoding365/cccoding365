@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「草木也知愁，韶华竟白头。」</b>
+     <b>「欲买桂花同载酒，终不似，少年游。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 28°C, <i>few clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 24°C, <i>scattered clouds</i></b></br>Today, the sun rises at
      <b>06:12 AM</b> and sets at <b>05:30 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, October 29, 2025, 16:22:21 GMT+8
+     Last refresh: Wednesday, October 29, 2025, 20:35:15 GMT+8
 </p>
 
 <p>

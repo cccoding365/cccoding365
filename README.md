@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「位卑未敢忘忧国，事定犹须待阖棺。」</b>
+     <b>「最是人间留不住，朱颜辞镜花辞树。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 20°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 21°C, <i>scattered clouds</i></b></br>Today, the sun rises at
      <b>06:16 AM</b> and sets at <b>05:25 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, November 05, 2025, 00:20:12 GMT+8
+     Last refresh: Wednesday, November 05, 2025, 04:18:55 GMT+8
 </p>
 
 <p>

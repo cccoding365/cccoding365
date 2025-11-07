@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「知识有两种，一种是你知道的，一种是你知道在哪里能找到的！」</b>
+     <b>「最是人间留不住，朱颜辞镜花辞树。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, November 07, 2025, 12:18:39 GMT+8
+     Last refresh: Friday, November 07, 2025, 16:22:13 GMT+8
 </p>
 
 <p>

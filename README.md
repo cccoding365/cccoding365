@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「若是遇见从前的我，请带他回来。」</b>
+     <b>「兴，百姓苦；亡，百姓苦。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, November 08, 2025, 12:18:20 GMT+8
+     Last refresh: Saturday, November 08, 2025, 16:19:20 GMT+8
 </p>
 
 <p>

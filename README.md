@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「中秋谁与共孤光。把盏凄然北望。」</b>
+     <b>「人性一个最特别的弱点就是：在意别人如何看待自己。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, November 09, 2025, 12:18:32 GMT+8
+     Last refresh: Sunday, November 09, 2025, 16:18:14 GMT+8
 </p>
 
 <p>

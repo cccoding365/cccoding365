@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「想当年，金戈铁马，气吞万里如虎。」</b>
+     <b>「出入相友，守望相助。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, November 14, 2025, 12:20:25 GMT+8
+     Last refresh: Friday, November 14, 2025, 16:21:44 GMT+8
 </p>
 
 <p>

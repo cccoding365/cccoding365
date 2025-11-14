@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「比起有一百个朋友，不如有个比一百人还要重要的真心朋友。」</b>
+     <b>「为遇一人而入红尘，人去我亦去，此生不留尘。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, November 15, 2025, 00:20:51 GMT+8
+     Last refresh: Saturday, November 15, 2025, 04:18:26 GMT+8
 </p>
 
 <p>

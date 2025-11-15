@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「无垢清净光，慧日破诸暗，能伏灾风火，普明照世间。」</b>
+     <b>「天欲使其灭亡，必先使其疯狂。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, November 16, 2025, 00:17:26 GMT+8
+     Last refresh: Sunday, November 16, 2025, 04:16:16 GMT+8
 </p>
 
 <p>

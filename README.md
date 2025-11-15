@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「路漫漫其修远兮，吾将上下而求索。」</b>
+     <b>「臣鞠躬尽瘁，死而后已。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 25°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 21°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:23 AM</b> and sets at <b>05:21 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, November 15, 2025, 16:19:00 GMT+8
+     Last refresh: Saturday, November 15, 2025, 20:29:31 GMT+8
 </p>
 
 <p>

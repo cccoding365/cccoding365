@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「为者常成，行者常至。」</b>
+     <b>「人生天地之间，若白驹之过隙，忽然而已。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, November 16, 2025, 12:22:31 GMT+8
+     Last refresh: Sunday, November 16, 2025, 16:19:40 GMT+8
 </p>
 
 <p>

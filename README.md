@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「咬定青山不放松，立根原在破岩中。」</b>
+     <b>「哲学家们只是用不同的方式解释世界，而问题在于改变世界。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 22°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 21°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:24 AM</b> and sets at <b>05:20 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, November 16, 2025, 20:29:44 GMT+8
+     Last refresh: Monday, November 17, 2025, 00:17:40 GMT+8
 </p>
 
 <p>

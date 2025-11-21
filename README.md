@@ -60,7 +60,7 @@
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 17°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 15°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:28 AM</b> and sets at <b>05:19 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, November 22, 2025, 00:20:43 GMT+8
+     Last refresh: Saturday, November 22, 2025, 04:18:44 GMT+8
 </p>
 
 <p>

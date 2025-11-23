@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「沾衣欲湿杏花雨，吹面不寒杨柳风。」</b>
+     <b>「世间万般讲理与不讲理，终归会落在一处，我心安处即吾乡。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, November 23, 2025, 12:30:03 GMT+8
+     Last refresh: Sunday, November 23, 2025, 16:20:01 GMT+8
 </p>
 
 <p>

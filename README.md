@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「自以为心若顽石，却终究人非草木。」</b>
+     <b>「实践是检验真理的唯一标准。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 22°C, <i>clear sky</i></b></br>Today, the sun rises at
-     <b>06:29 AM</b> and sets at <b>05:19 PM</b>.
+     Currently, the weather is: <b> 20°C, <i>clear sky</i></b></br>Today, the sun rises at
+     <b>06:30 AM</b> and sets at <b>05:19 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, November 24, 2025, 20:35:26 GMT+8
+     Last refresh: Tuesday, November 25, 2025, 00:19:08 GMT+8
 </p>
 
 <p>

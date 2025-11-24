@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「实践是检验真理的唯一标准。」</b>
+     <b>「欺骗的友谊是痛苦的创伤，虚伪的同情是锐利的毒箭。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 20°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 18°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:30 AM</b> and sets at <b>05:19 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, November 25, 2025, 00:19:08 GMT+8
+     Last refresh: Tuesday, November 25, 2025, 04:19:11 GMT+8
 </p>
 
 <p>

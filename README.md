@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「想跟我谈恋爱，还是想跟我谈个恋爱？」</b>
+     <b>「我明白你会来，所以我等。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 18°C, <i>few clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 22°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:34 AM</b> and sets at <b>05:18 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, November 30, 2025, 09:25:14 GMT+8
+     Last refresh: Sunday, November 30, 2025, 12:31:15 GMT+8
 </p>
 
 <p>

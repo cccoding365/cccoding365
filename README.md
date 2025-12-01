@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「生命如同寓言，其价值不在于长短，而在于内容。」</b>
+     <b>「世事短如春梦，人情薄似秋云。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 21°C, <i>scattered clouds</i></b></br>Today, the sun rises at
-     <b>06:34 AM</b> and sets at <b>05:18 PM</b>.
+     Currently, the weather is: <b> 20°C, <i>clear sky</i></b></br>Today, the sun rises at
+     <b>06:35 AM</b> and sets at <b>05:18 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, December 01, 2025, 20:35:56 GMT+8
+     Last refresh: Tuesday, December 02, 2025, 00:23:54 GMT+8
 </p>
 
 <p>

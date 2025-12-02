@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「很多事只是最初看起来有意义，但经过多次重复就慢慢失去了意义。」</b>
+     <b>「我乃死，我乃生。我为暗，我亦为光。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 25°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 23°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:35 AM</b> and sets at <b>05:18 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, December 02, 2025, 12:27:24 GMT+8
+     Last refresh: Tuesday, December 02, 2025, 16:25:14 GMT+8
 </p>
 
 <p>

@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「世间本无公平可言，除非公平掌握在自己手中。」</b>
+     <b>「为你战死是我至高无上的荣耀。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, December 06, 2025, 12:18:47 GMT+8
+     Last refresh: Saturday, December 06, 2025, 16:20:36 GMT+8
 </p>
 
 <p>

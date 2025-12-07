@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「衰兰送客咸阳道，天若有情天亦老。」</b>
+     <b>「似水流年是一个人所有的一切，只有这个东西，才真正归你所有。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, December 07, 2025, 12:30:11 GMT+8
+     Last refresh: Sunday, December 07, 2025, 16:20:02 GMT+8
 </p>
 
 <p>

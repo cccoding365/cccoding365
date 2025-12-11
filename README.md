@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「斩尽杀绝，这是对一个文明最高的重视。」</b>
+     <b>「青山依旧在，几度夕阳红。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 23°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 21°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:41 AM</b> and sets at <b>05:20 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, December 11, 2025, 16:25:17 GMT+8
+     Last refresh: Thursday, December 11, 2025, 20:38:08 GMT+8
 </p>
 
 <p>

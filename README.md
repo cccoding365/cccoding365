@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「思君如流水，何有穷已时。」</b>
+     <b>「人类的悲欢并不相通，我只是觉得他们吵闹。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, December 15, 2025, 00:19:29 GMT+8
+     Last refresh: Monday, December 15, 2025, 04:18:01 GMT+8
 </p>
 
 <p>

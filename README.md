@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「人生而自由，却无往不在枷锁中。」</b>
+     <b>「思君如流水，何有穷已时。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 14°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 12°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:43 AM</b> and sets at <b>05:21 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, December 14, 2025, 20:32:33 GMT+8
+     Last refresh: Monday, December 15, 2025, 00:19:29 GMT+8
 </p>
 
 <p>

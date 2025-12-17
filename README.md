@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「我想，在你眼里，撒野奔跑；我想，一个眼神，就到老。」</b>
+     <b>「路曼曼其修远兮，吾将上下而求索。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 23°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 20°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:45 AM</b> and sets at <b>05:22 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, December 17, 2025, 16:25:23 GMT+8
+     Last refresh: Wednesday, December 17, 2025, 20:37:40 GMT+8
 </p>
 
 <p>

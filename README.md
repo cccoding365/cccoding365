@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「相思只在：丁香枝上，豆蔻梢头。」</b>
+     <b>「地狱太冷，我来殉你。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 18°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 16°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:45 AM</b> and sets at <b>05:22 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, December 18, 2025, 00:23:10 GMT+8
+     Last refresh: Thursday, December 18, 2025, 04:20:01 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「所谓辉煌的人生，不过是欲望的囚徒。」</b>
+     <b>「只是，想要做些什么而已。 觉得不做些什么就会死掉而已。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 18°C, <i>mist</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 17°C, <i>mist</i></b></br>Today, the sun rises at
      <b>06:46 AM</b> and sets at <b>05:23 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, December 20, 2025, 00:21:34 GMT+8
+     Last refresh: Saturday, December 20, 2025, 04:19:16 GMT+8
 </p>
 
 <p>

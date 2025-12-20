@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「思君如满月，夜夜减清辉。」</b>
+     <b>「江碧鸟逾白，山青花欲燃。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 18°C, <i>mist</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 17°C, <i>mist</i></b></br>Today, the sun rises at
      <b>06:47 AM</b> and sets at <b>05:24 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, December 21, 2025, 00:19:39 GMT+8
+     Last refresh: Sunday, December 21, 2025, 04:17:17 GMT+8
 </p>
 
 <p>

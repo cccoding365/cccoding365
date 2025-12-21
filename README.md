@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「你背朝太阳，就只能看到自己的影子。」</b>
+     <b>「以人言善我，必以人言罪我。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 20°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 21°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:47 AM</b> and sets at <b>05:24 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, December 21, 2025, 09:25:35 GMT+8
+     Last refresh: Sunday, December 21, 2025, 12:34:18 GMT+8
 </p>
 
 <p>

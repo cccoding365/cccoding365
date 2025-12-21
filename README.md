@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「以人言善我，必以人言罪我。」</b>
+     <b>「让时光静静悄悄的流，把所有遗憾和失落都带走。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, December 21, 2025, 12:34:18 GMT+8
+     Last refresh: Sunday, December 21, 2025, 16:21:29 GMT+8
 </p>
 
 <p>

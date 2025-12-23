@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「黄梅时节家家雨，青草池塘处处蛙。」</b>
+     <b>「新竹高于旧竹枝，全凭老干为扶持。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 16°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 19°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:48 AM</b> and sets at <b>05:25 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, December 23, 2025, 04:19:26 GMT+8
+     Last refresh: Tuesday, December 23, 2025, 09:20:35 GMT+8
 </p>
 
 <p>

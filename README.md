@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「不论斟满的是什么，都要——干杯！」</b>
+     <b>「盛年不重来，一日难再晨。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 19°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 18°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>06:48 AM</b> and sets at <b>05:26 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, December 25, 2025, 00:21:06 GMT+8
+     Last refresh: Thursday, December 25, 2025, 04:18:26 GMT+8
 </p>
 
 <p>

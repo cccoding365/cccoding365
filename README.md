@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「放弃不难，但坚持一定很酷。」</b>
+     <b>「千万丈的大厦总要有片奠基石，最初的爱好无可替代。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 20°C, <i>scattered clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 23°C, <i>scattered clouds</i></b></br>Today, the sun rises at
      <b>06:48 AM</b> and sets at <b>05:25 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, December 24, 2025, 09:19:32 GMT+8
+     Last refresh: Wednesday, December 24, 2025, 12:32:48 GMT+8
 </p>
 
 <p>

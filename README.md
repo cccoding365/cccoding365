@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「抽刀断水水更流，举杯消愁愁更愁。」</b>
+     <b>「有志者，事竟成。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 13°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 12°C, <i>broken clouds</i></b></br>Today, the sun rises at
      <b>06:49 AM</b> and sets at <b>05:26 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, December 26, 2025, 00:21:18 GMT+8
+     Last refresh: Friday, December 26, 2025, 04:19:00 GMT+8
 </p>
 
 <p>

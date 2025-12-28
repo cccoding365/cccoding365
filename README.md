@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「甲之蜜糖，乙之砒霜。」</b>
+     <b>「高山仰止，景行行止。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 16°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 19°C, <i>few clouds</i></b></br>Today, the sun rises at
      <b>06:50 AM</b> and sets at <b>05:27 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, December 28, 2025, 09:38:23 GMT+8
+     Last refresh: Sunday, December 28, 2025, 12:40:56 GMT+8
 </p>
 
 <p>

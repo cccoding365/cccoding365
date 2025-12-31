@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「我愿作一缕白昼的月光，不求眩目的荣华，不淆世俗的浪潮。」</b>
+     <b>「露从今夜白，月是故乡明。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 18°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 16°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>06:51 AM</b> and sets at <b>05:29 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, December 31, 2025, 16:24:42 GMT+8
+     Last refresh: Wednesday, December 31, 2025, 20:36:12 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「秋阴不散霜飞晚，留得枯荷听雨声。」</b>
+     <b>「但愿人长久，千里共婵娟。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 15°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 14°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>06:52 AM</b> and sets at <b>05:33 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, January 06, 2026, 00:23:30 GMT+8
+     Last refresh: Tuesday, January 06, 2026, 04:21:18 GMT+8
 </p>
 
 <p>

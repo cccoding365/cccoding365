@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「巧合是上帝默默操控世界的方式。」</b>
+     <b>「我更喜欢死的历史。死的历史用墨水书写，活的历史则用鲜血。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, January 07, 2026, 00:23:27 GMT+8
+     Last refresh: Wednesday, January 07, 2026, 04:20:05 GMT+8
 </p>
 
 <p>

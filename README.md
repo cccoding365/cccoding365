@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「思君如流水，何有穷已时。」</b>
+     <b>「劝君莫惜花前醉，今年花谢，明年花谢，白了人头。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, January 06, 2026, 12:36:31 GMT+8
+     Last refresh: Tuesday, January 06, 2026, 16:25:34 GMT+8
 </p>
 
 <p>

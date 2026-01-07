@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「我更喜欢死的历史。死的历史用墨水书写，活的历史则用鲜血。」</b>
+     <b>「乌鸦为什么像写字台？」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 9°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 10°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:52 AM</b> and sets at <b>05:34 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, January 07, 2026, 04:20:05 GMT+8
+     Last refresh: Wednesday, January 07, 2026, 09:22:41 GMT+8
 </p>
 
 <p>

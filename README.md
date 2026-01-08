@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「抛得开手里玩具，先懂得好好进睡。」</b>
+     <b>「应该在肩膀上长着自己的脑袋。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 12°C, <i>clear sky</i></b></br>Today, the sun rises at
-     <b>06:52 AM</b> and sets at <b>05:34 PM</b>.
+     Currently, the weather is: <b> 11°C, <i>clear sky</i></b></br>Today, the sun rises at
+     <b>06:53 AM</b> and sets at <b>05:35 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, January 08, 2026, 20:38:31 GMT+8
+     Last refresh: Friday, January 09, 2026, 00:25:11 GMT+8
 </p>
 
 <p>

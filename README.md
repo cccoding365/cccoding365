@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「流年莫虚掷，华发不相容。」</b>
+     <b>「应该在肩膀上长着自己的脑袋。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, January 11, 2026, 20:34:16 GMT+8
+     Last refresh: Monday, January 12, 2026, 00:20:32 GMT+8
 </p>
 
 <p>

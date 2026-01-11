@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「应该在肩膀上长着自己的脑袋。」</b>
+     <b>「人性一个最特别的弱点就是：在意别人如何看待自己。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, January 12, 2026, 00:20:32 GMT+8
+     Last refresh: Monday, January 12, 2026, 04:19:17 GMT+8
 </p>
 
 <p>

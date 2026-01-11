@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「谎言重复一千遍就成了真理。」</b>
+     <b>「流年莫虚掷，华发不相容。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 18°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 12°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:53 AM</b> and sets at <b>05:37 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, January 11, 2026, 16:21:57 GMT+8
+     Last refresh: Sunday, January 11, 2026, 20:34:16 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「人人心中所有，人人笔下所无。」</b>
+     <b>「见贤思齐焉，见不贤而内自省也。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 14°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 11°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:53 AM</b> and sets at <b>05:39 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, January 14, 2026, 00:27:15 GMT+8
+     Last refresh: Wednesday, January 14, 2026, 04:20:41 GMT+8
 </p>
 
 <p>

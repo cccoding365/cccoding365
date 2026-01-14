@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「弱小和无知从来就不是一个文明毁灭的原因，傲慢才是。」</b>
+     <b>「批判的武器当然不能代替武器的批判。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 17°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 14°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:53 AM</b> and sets at <b>05:39 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, January 14, 2026, 20:38:37 GMT+8
+     Last refresh: Thursday, January 15, 2026, 00:25:40 GMT+8
 </p>
 
 <p>

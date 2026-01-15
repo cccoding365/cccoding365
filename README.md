@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「生命如同寓言，其价值不在于长短，而在于内容。」</b>
+     <b>「似水流年是一个人所有的一切，只有这个东西，才真正归你所有。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, January 15, 2026, 12:37:13 GMT+8
+     Last refresh: Thursday, January 15, 2026, 16:26:41 GMT+8
 </p>
 
 <p>

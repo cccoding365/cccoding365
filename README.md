@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「心向花开，何不朝夕。」</b>
+     <b>「青青子衿，悠悠我心。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 23°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 17°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:53 AM</b> and sets at <b>05:40 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, January 16, 2026, 16:25:16 GMT+8
+     Last refresh: Friday, January 16, 2026, 20:36:56 GMT+8
 </p>
 
 <p>

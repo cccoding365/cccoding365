@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「稻花香里说丰年。听取蛙声一片。」</b>
+     <b>「丢掉幻想，准备斗争。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 17°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 23°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:53 AM</b> and sets at <b>05:41 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, January 17, 2026, 09:19:50 GMT+8
+     Last refresh: Saturday, January 17, 2026, 12:29:20 GMT+8
 </p>
 
 <p>

@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「他身处于黑暗之中，却好像有太阳要从他脚下升起。」</b>
+     <b>「面具戴太久，就会长到脸上，再想揭下来，除非伤筋动骨扒皮。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, January 19, 2026, 00:20:29 GMT+8
+     Last refresh: Monday, January 19, 2026, 04:19:06 GMT+8
 </p>
 
 <p>

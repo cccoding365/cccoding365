@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「草木有本心，何求美人折！」</b>
+     <b>「资本来到世间，从头到脚每个毛孔都滴着血和肮脏的东西。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 11°C, <i>overcast clouds</i></b></br>Today, the sun rises at
-     <b>06:52 AM</b> and sets at <b>05:44 PM</b>.
+     Currently, the weather is: <b> 10°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     <b>06:52 AM</b> and sets at <b>05:45 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, January 21, 2026, 20:41:38 GMT+8
+     Last refresh: Thursday, January 22, 2026, 00:39:51 GMT+8
 </p>
 
 <p>

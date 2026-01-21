@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「悲剧，是把美好的东西毁灭给人看。」</b>
+     <b>「草木有本心，何求美人折！」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 14°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 11°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>06:52 AM</b> and sets at <b>05:44 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, January 21, 2026, 16:27:28 GMT+8
+     Last refresh: Wednesday, January 21, 2026, 20:41:38 GMT+8
 </p>
 
 <p>

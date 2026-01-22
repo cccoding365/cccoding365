@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「月亮不知道她的恬静皎洁，甚至不知道自己是月亮。」</b>
+     <b>「无边落木萧萧下，不尽长江滚滚来。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 12°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 12°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>06:52 AM</b> and sets at <b>05:45 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, January 22, 2026, 12:44:18 GMT+8
+     Last refresh: Thursday, January 22, 2026, 16:27:11 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「无论你接不接受，现实就这么回事，一点也不在乎你怎么想的。」</b>
+     <b>「你有学校也有朋友，但对我来说，我的生活中就只有你。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 16°C, <i>few clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 14°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:52 AM</b> and sets at <b>05:45 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, January 23, 2026, 16:25:25 GMT+8
+     Last refresh: Friday, January 23, 2026, 20:39:29 GMT+8
 </p>
 
 <p>

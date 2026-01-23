@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「君埋泉下泥销骨，我寄人间雪满头。」</b>
+     <b>「你的无畏来源于无知。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 11°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 12°C, <i>few clouds</i></b></br>Today, the sun rises at
      <b>06:52 AM</b> and sets at <b>05:45 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, January 23, 2026, 04:22:40 GMT+8
+     Last refresh: Friday, January 23, 2026, 09:22:57 GMT+8
 </p>
 
 <p>

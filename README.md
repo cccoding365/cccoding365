@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「桃李不言，下自成蹊。」</b>
+     <b>「当太阳落山以后，烛光永无法替代。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 15°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 13°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:52 AM</b> and sets at <b>05:47 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, January 25, 2026, 00:20:35 GMT+8
+     Last refresh: Sunday, January 25, 2026, 04:18:03 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「每想你一次，天上飘落一粒沙，从此形成了撒哈拉！」</b>
+     <b>「黑发不知勤学早，白首方悔读书迟。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 22°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 19°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:51 AM</b> and sets at <b>05:48 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, January 26, 2026, 16:27:53 GMT+8
+     Last refresh: Monday, January 26, 2026, 20:40:15 GMT+8
 </p>
 
 <p>

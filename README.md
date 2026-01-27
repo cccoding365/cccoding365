@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「欺骗的友谊是痛苦的创伤，虚伪的同情是锐利的毒箭。」</b>
+     <b>「愿我等之誓言，超越姓名与身份而永存。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, January 27, 2026, 12:43:13 GMT+8
+     Last refresh: Tuesday, January 27, 2026, 16:28:29 GMT+8
 </p>
 
 <p>

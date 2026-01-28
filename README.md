@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「从来不会生气的人，注定终生遭受欺凌和压制，直至被摧毁和消灭。」</b>
+     <b>「众口铄金，积毁销骨。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 14°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 13°C, <i>broken clouds</i></b></br>Today, the sun rises at
      <b>06:50 AM</b> and sets at <b>05:50 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, January 29, 2026, 00:32:00 GMT+8
+     Last refresh: Thursday, January 29, 2026, 04:25:59 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「大隐隐于市，要清静省心，自己就得空。」</b>
+     <b>「吾念所归，无惧无退！」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 15°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 18°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:50 AM</b> and sets at <b>05:50 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, January 29, 2026, 09:45:58 GMT+8
+     Last refresh: Thursday, January 29, 2026, 13:03:18 GMT+8
 </p>
 
 <p>

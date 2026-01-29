@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「你背朝太阳，就只能看到自己的影子。」</b>
+     <b>「取法于上，仅得为中；取法于中，故为其下。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 18°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 16°C, <i>broken clouds</i></b></br>Today, the sun rises at
      <b>06:50 AM</b> and sets at <b>05:50 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, January 29, 2026, 16:34:28 GMT+8
+     Last refresh: Thursday, January 29, 2026, 20:50:27 GMT+8
 </p>
 
 <p>

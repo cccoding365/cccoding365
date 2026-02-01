@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「八阵图名成卧龙，六韬书功在飞熊。」</b>
+     <b>「空不是无，空是一种存在。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 13°C, <i>scattered clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 16°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:49 AM</b> and sets at <b>05:52 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, February 01, 2026, 10:00:52 GMT+8
+     Last refresh: Sunday, February 01, 2026, 13:20:01 GMT+8
 </p>
 
 <p>

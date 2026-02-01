@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「为学日益，为道日损。」</b>
+     <b>「会当凌绝顶，一览众山小。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 13°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 13°C, <i>broken clouds</i></b></br>Today, the sun rises at
      <b>06:49 AM</b> and sets at <b>05:53 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, February 02, 2026, 00:24:15 GMT+8
+     Last refresh: Monday, February 02, 2026, 04:21:40 GMT+8
 </p>
 
 <p>

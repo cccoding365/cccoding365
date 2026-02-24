@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「花自飘零水自流。一种相思，两处闲愁。」</b>
+     <b>「群体只会干两件事，锦上添花或者落井下石。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, February 24, 2026, 16:41:23 GMT+8
+     Last refresh: Tuesday, February 24, 2026, 20:57:35 GMT+8
 </p>
 
 <p>

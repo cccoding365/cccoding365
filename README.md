@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「奇怪的是，当他死去，所有人才开始爱他。」</b>
+     <b>「不如意事常八九，可与语人无二三。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, March 13, 2026, 16:35:32 GMT+8
+     Last refresh: Friday, March 13, 2026, 20:51:21 GMT+8
 </p>
 
 <p>

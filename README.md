@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「幸福的家庭都是相似的，不幸的家庭各有各的不幸。」</b>
+     <b>「千万生灵，唯你有权看到我脆弱。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, March 15, 2026, 00:26:25 GMT+8
+     Last refresh: Sunday, March 15, 2026, 04:23:32 GMT+8
 </p>
 
 <p>

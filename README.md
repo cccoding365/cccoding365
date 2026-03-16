@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「总是以为我们会长久，可能因为我们会长久，然后这样我们就长久。」</b>
+     <b>「圣人不死，大盗不止。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, March 17, 2026, 00:57:55 GMT+8
+     Last refresh: Tuesday, March 17, 2026, 04:34:33 GMT+8
 </p>
 
 <p>

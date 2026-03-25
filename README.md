@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「一尺之锤，日取其半，万世不竭。」</b>
+     <b>「悲剧，是把美好的东西毁灭给人看。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 20°C, <i>few clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 19°C, <i>scattered clouds</i></b></br>Today, the sun rises at
      <b>06:07 AM</b> and sets at <b>06:20 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, March 25, 2026, 13:21:25 GMT+8
+     Last refresh: Wednesday, March 25, 2026, 16:44:26 GMT+8
 </p>
 
 <p>

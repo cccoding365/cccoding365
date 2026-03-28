@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「嗟叹红颜泪、英雄殁，人世苦多。山河永寂、怎堪欢颜。」</b>
+     <b>「思君如流水，何有穷已时。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, March 29, 2026, 00:29:12 GMT+8
+     Last refresh: Sunday, March 29, 2026, 04:25:23 GMT+8
 </p>
 
 <p>

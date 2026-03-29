@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「但行好事，莫问前程。」</b>
+     <b>「三十年河东，三十年河西」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 20°C, <i>mist</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 24°C, <i>broken clouds</i></b></br>Today, the sun rises at
      <b>06:02 AM</b> and sets at <b>06:22 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, March 29, 2026, 10:03:58 GMT+8
+     Last refresh: Sunday, March 29, 2026, 13:41:10 GMT+8
 </p>
 
 <p>

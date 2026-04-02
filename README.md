@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「人能够能动地认识世界；人能够能动地改造世界。」</b>
+     <b>「后代人的权利远比当代人的欲望更重要。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, April 03, 2026, 00:53:10 GMT+8
+     Last refresh: Friday, April 03, 2026, 04:31:36 GMT+8
 </p>
 
 <p>

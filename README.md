@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「时间是存在者的时间。」</b>
+     <b>「一以贯之的努力，不得懈怠的人生。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 19°C, <i>thunderstorm with light rain</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 19°C, <i>mist</i></b></br>Today, the sun rises at
      <b>05:57 AM</b> and sets at <b>06:24 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, April 03, 2026, 16:48:26 GMT+8
+     Last refresh: Friday, April 03, 2026, 20:56:24 GMT+8
 </p>
 
 <p>

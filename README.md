@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「后代人的权利远比当代人的欲望更重要。」</b>
+     <b>「行百里者半九十。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 17°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 18°C, <i>broken clouds</i></b></br>Today, the sun rises at
      <b>05:57 AM</b> and sets at <b>06:24 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, April 03, 2026, 04:31:36 GMT+8
+     Last refresh: Friday, April 03, 2026, 10:00:17 GMT+8
 </p>
 
 <p>

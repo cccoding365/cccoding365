@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「等闲变却故人心，却道故人心易变。」</b>
+     <b>「行远自迩，登高自卑。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 19°C, <i>light rain</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 18°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>05:52 AM</b> and sets at <b>06:26 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, April 08, 2026, 00:53:24 GMT+8
+     Last refresh: Wednesday, April 08, 2026, 04:41:45 GMT+8
 </p>
 
 <p>

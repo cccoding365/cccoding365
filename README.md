@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「黄沙百战穿金甲，不破楼兰终不还。」</b>
+     <b>「我们把世界看错，反说它欺骗了我们。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 25°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 28°C, <i>few clouds</i></b></br>Today, the sun rises at
      <b>05:49 AM</b> and sets at <b>06:27 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, April 11, 2026, 09:57:28 GMT+8
+     Last refresh: Saturday, April 11, 2026, 13:22:43 GMT+8
 </p>
 
 <p>

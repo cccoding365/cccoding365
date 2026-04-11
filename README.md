@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「我们把世界看错，反说它欺骗了我们。」</b>
+     <b>「我相信群众的革命意识最终会将革命之火带回。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, April 11, 2026, 13:22:43 GMT+8
+     Last refresh: Saturday, April 11, 2026, 16:38:34 GMT+8
 </p>
 
 <p>

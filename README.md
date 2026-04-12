@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「谁念西风独自凉，萧萧黄叶闭疏窗，沉思往事立残阳。」</b>
+     <b>「熬得住无人问津的日子，方可配得起诗和远方。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 30°C, <i>scattered clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 28°C, <i>scattered clouds</i></b></br>Today, the sun rises at
      <b>05:48 AM</b> and sets at <b>06:27 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, April 12, 2026, 13:51:36 GMT+8
+     Last refresh: Sunday, April 12, 2026, 16:42:11 GMT+8
 </p>
 
 <p>

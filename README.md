@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「一个会用风筝向你写出“我想你”的女孩，真让人永远都忘不了她。」</b>
+     <b>「人们之所以会怀念故乡，是因为心爱的人就在故乡。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, April 13, 2026, 10:23:38 GMT+8
+     Last refresh: Monday, April 13, 2026, 14:11:03 GMT+8
 </p>
 
 <p>

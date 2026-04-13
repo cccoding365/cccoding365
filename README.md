@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「加加减减，最终归零。恨的杀人，爱的报恩。」</b>
+     <b>「丢掉幻想，准备斗争。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 28°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 25°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>05:48 AM</b> and sets at <b>06:28 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, April 13, 2026, 17:51:10 GMT+8
+     Last refresh: Monday, April 13, 2026, 21:18:44 GMT+8
 </p>
 
 <p>

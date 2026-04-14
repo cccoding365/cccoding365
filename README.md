@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「书生以笔杀人，当如是。」</b>
+     <b>「语言的隔阂，本质上是一个人——信息，知识，视野，圈子的隔阂。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, April 15, 2026, 01:01:50 GMT+8
+     Last refresh: Wednesday, April 15, 2026, 04:49:45 GMT+8
 </p>
 
 <p>

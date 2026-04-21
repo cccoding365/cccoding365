@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「态度是心的面具！」</b>
+     <b>「要对得起你的苦难。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 25°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 23°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>05:40 AM</b> and sets at <b>06:31 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, April 21, 2026, 17:21:33 GMT+8
+     Last refresh: Tuesday, April 21, 2026, 21:17:27 GMT+8
 </p>
 
 <p>

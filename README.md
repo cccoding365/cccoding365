@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「生当作人杰，死亦为鬼雄。」</b>
+     <b>「恨人神之道殊兮，怨盛年之莫当。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 25°C, <i>clear sky</i></b></br>Today, the sun rises at
-     <b>05:40 AM</b> and sets at <b>06:32 PM</b>.
+     Currently, the weather is: <b> 24°C, <i>scattered clouds</i></b></br>Today, the sun rises at
+     <b>05:39 AM</b> and sets at <b>06:32 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, April 22, 2026, 21:18:57 GMT+8
+     Last refresh: Thursday, April 23, 2026, 00:55:01 GMT+8
 </p>
 
 <p>

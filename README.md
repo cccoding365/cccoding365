@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「正义是杀不完的，因为真理永远存在！」</b>
+     <b>「生当作人杰，死亦为鬼雄。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 26°C, <i>scattered clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 25°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>05:40 AM</b> and sets at <b>06:32 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, April 22, 2026, 17:16:12 GMT+8
+     Last refresh: Wednesday, April 22, 2026, 21:18:57 GMT+8
 </p>
 
 <p>

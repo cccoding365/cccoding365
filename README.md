@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「知识有两种，一种是你知道的，一种是你知道在哪里能找到的！」</b>
+     <b>「冬青树上挂凌霄，岁晏花凋树不凋。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 21°C, <i>light rain</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 19°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>05:38 AM</b> and sets at <b>06:33 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, April 24, 2026, 01:16:20 GMT+8
+     Last refresh: Friday, April 24, 2026, 04:48:05 GMT+8
 </p>
 
 <p>

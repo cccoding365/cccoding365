@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「我们把世界看错，反说它欺骗了我们。」</b>
+     <b>「知识有两种，一种是你知道的，一种是你知道在哪里能找到的！」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 21°C, <i>light intensity shower rain</i></b></br>Today, the sun rises at
-     <b>05:39 AM</b> and sets at <b>06:32 PM</b>.
+     Currently, the weather is: <b> 21°C, <i>light rain</i></b></br>Today, the sun rises at
+     <b>05:38 AM</b> and sets at <b>06:33 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, April 23, 2026, 21:20:03 GMT+8
+     Last refresh: Friday, April 24, 2026, 01:16:20 GMT+8
 </p>
 
 <p>

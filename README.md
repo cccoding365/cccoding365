@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「我们的科学永远只是找到近似真理。」</b>
+     <b>「虎狼在外，不敢不殚精竭虑；山河未定，也不敢轻贱其身。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 20°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 23°C, <i>few clouds</i></b></br>Today, the sun rises at
      <b>05:37 AM</b> and sets at <b>06:33 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, April 25, 2026, 10:03:47 GMT+8
+     Last refresh: Saturday, April 25, 2026, 13:45:51 GMT+8
 </p>
 
 <p>

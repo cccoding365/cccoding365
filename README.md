@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「喜欢就会放肆，但爱就是克制。」</b>
+     <b>「世界上大部分事，都没有太大意义，真理与热爱除外。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 28°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 26°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>05:35 AM</b> and sets at <b>06:34 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, April 27, 2026, 14:24:54 GMT+8
+     Last refresh: Monday, April 27, 2026, 18:10:48 GMT+8
 </p>
 
 <p>

@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「Does She Walk Alone?」</b>
+     <b>「谁是我们的敌人，谁是我们的朋友，这是革命的首要问题。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, April 30, 2026, 14:24:44 GMT+8
+     Last refresh: Thursday, April 30, 2026, 18:03:09 GMT+8
 </p>
 
 <p>

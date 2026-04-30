@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「远望岂能当归，岂能当归？」</b>
+     <b>「墙外行人，墙里佳人笑。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 19°C, <i>broken clouds</i></b></br>Today, the sun rises at
-     <b>05:33 AM</b> and sets at <b>06:35 PM</b>.
+     Currently, the weather is: <b> 18°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     <b>05:32 AM</b> and sets at <b>06:36 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, April 30, 2026, 21:46:10 GMT+8
+     Last refresh: Friday, May 01, 2026, 01:16:26 GMT+8
 </p>
 
 <p>

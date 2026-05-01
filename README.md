@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「即使人生是一场悲剧，也应该笑着把人生演完。」</b>
+     <b>「花有重开日，人无再少年。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 24°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 23°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>05:32 AM</b> and sets at <b>06:36 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, May 01, 2026, 14:33:30 GMT+8
+     Last refresh: Friday, May 01, 2026, 17:42:16 GMT+8
 </p>
 
 <p>

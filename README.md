@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「当太阳落山以后，烛光永无法替代。」</b>
+     <b>「和云流出空山，甚年年净洗，花香不了？」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 26°C, <i>few clouds</i></b></br>Today, the sun rises at
-     <b>05:31 AM</b> and sets at <b>06:37 PM</b>.
+     Currently, the weather is: <b> 25°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     <b>05:30 AM</b> and sets at <b>06:37 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, May 03, 2026, 21:01:12 GMT+8
+     Last refresh: Monday, May 04, 2026, 00:43:33 GMT+8
 </p>
 
 <p>

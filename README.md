@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「如果你没有做好准备，你就是在准备失败。」</b>
+     <b>「何以窥不破，何以辜负卿。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 22°C, <i>light rain</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 20°C, <i>light rain</i></b></br>Today, the sun rises at
      <b>05:30 AM</b> and sets at <b>06:37 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, May 04, 2026, 14:35:38 GMT+8
+     Last refresh: Monday, May 04, 2026, 18:09:44 GMT+8
 </p>
 
 <p>

@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「革命尚未成功，同志仍需努力！」</b>
+     <b>「人民，只有人民，才是创造世界历史的动力。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, May 05, 2026, 01:26:34 GMT+8
+     Last refresh: Tuesday, May 05, 2026, 05:04:11 GMT+8
 </p>
 
 <p>

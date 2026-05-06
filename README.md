@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「江南可采莲，莲叶何田田。」</b>
+     <b>「不为成仙，只为在这红尘中等你归来！」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 23°C, <i>clear sky</i></b></br>Today, the sun rises at
-     <b>05:29 AM</b> and sets at <b>06:38 PM</b>.
+     Currently, the weather is: <b> 23°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     <b>05:28 AM</b> and sets at <b>06:39 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, May 06, 2026, 21:59:49 GMT+8
+     Last refresh: Thursday, May 07, 2026, 01:26:32 GMT+8
 </p>
 
 <p>

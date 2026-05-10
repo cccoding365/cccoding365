@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「应该在肩膀上长着自己的脑袋。」</b>
+     <b>「锦官红妆否？不见故人裙。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 24°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 26°C, <i>few clouds</i></b></br>Today, the sun rises at
      <b>05:27 AM</b> and sets at <b>06:41 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, May 10, 2026, 10:37:01 GMT+8
+     Last refresh: Sunday, May 10, 2026, 14:30:27 GMT+8
 </p>
 
 <p>

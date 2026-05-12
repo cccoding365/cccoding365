@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「生活中最重要的不是凯旋，而是奋斗。」</b>
+     <b>「救救我啊奥特曼，哪怕你只能撑三分钟…」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 24°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 25°C, <i>mist</i></b></br>Today, the sun rises at
      <b>05:26 AM</b> and sets at <b>06:42 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, May 12, 2026, 05:13:18 GMT+8
+     Last refresh: Tuesday, May 12, 2026, 10:39:16 GMT+8
 </p>
 
 <p>

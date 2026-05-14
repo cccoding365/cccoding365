@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「生年不满百，常怀千岁忧。昼短苦夜长，何不秉烛游。」</b>
+     <b>「将盈耆欲，长好恶，则性命之情病矣。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 23°C, <i>broken clouds</i></b></br>Today, the sun rises at
-     <b>05:25 AM</b> and sets at <b>06:43 PM</b>.
+     Currently, the weather is: <b> 23°C, <i>mist</i></b></br>Today, the sun rises at
+     <b>05:24 AM</b> and sets at <b>06:43 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, May 14, 2026, 22:01:00 GMT+8
+     Last refresh: Friday, May 15, 2026, 01:46:18 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「得来不易的机会，会让所有的动物去做原来不喜欢做的事。」</b>
+     <b>「人不是有机体的集合，是经历的集合。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 22°C, <i>light intensity shower rain</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 22°C, <i>moderate rain</i></b></br>Today, the sun rises at
      <b>05:25 AM</b> and sets at <b>06:43 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, May 14, 2026, 05:23:36 GMT+8
+     Last refresh: Thursday, May 14, 2026, 10:46:38 GMT+8
 </p>
 
 <p>

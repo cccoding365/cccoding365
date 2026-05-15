@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「银烛秋光冷画屏，轻罗小扇扑流萤。」</b>
+     <b>「我们把世界看错，反说它欺骗了我们。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 25°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 24°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>05:24 AM</b> and sets at <b>06:43 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, May 15, 2026, 14:52:25 GMT+8
+     Last refresh: Friday, May 15, 2026, 18:18:48 GMT+8
 </p>
 
 <p>

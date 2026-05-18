@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「追风赶月莫停留，平芜尽处是春山。」</b>
+     <b>「批判的武器当然不能代替武器的批判。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
      Currently, the weather is: <b> 25°C, <i>broken clouds</i></b></br>Today, the sun rises at
-     <b>05:23 AM</b> and sets at <b>06:45 PM</b>.
+     <b>05:22 AM</b> and sets at <b>06:45 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, May 18, 2026, 23:21:28 GMT+8
+     Last refresh: Tuesday, May 19, 2026, 01:56:58 GMT+8
 </p>
 
 <p>

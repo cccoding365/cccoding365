@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「批判的武器当然不能代替武器的批判。」</b>
+     <b>「事实上，你在所有地方都死了，除去某一处小小所在（这里）。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 25°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 23°C, <i>scattered clouds</i></b></br>Today, the sun rises at
      <b>05:22 AM</b> and sets at <b>06:45 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, May 19, 2026, 01:56:58 GMT+8
+     Last refresh: Tuesday, May 19, 2026, 05:07:25 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「可怜之人必有可恨之处，可恨之人必有可悲之苦。」</b>
+     <b>「没有调查，没有发言权。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 26°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 27°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>05:22 AM</b> and sets at <b>06:46 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, May 21, 2026, 19:18:13 GMT+8
+     Last refresh: Thursday, May 21, 2026, 22:57:00 GMT+8
 </p>
 
 <p>

@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「落霞与孤鹜齐飞，秋水共长天一色。」</b>
+     <b>「隐约雷鸣，阴霾天空，但盼风雨来，能留你在此。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 30°C, <i>scattered clouds</i></b></br>Today, the sun rises at
-     <b>05:21 AM</b> and sets at <b>06:47 PM</b>.
+     Currently, the weather is: <b> 28°C, <i>clear sky</i></b></br>Today, the sun rises at
+     <b>05:21 AM</b> and sets at <b>06:48 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, May 23, 2026, 21:16:33 GMT+8
+     Last refresh: Sunday, May 24, 2026, 00:55:32 GMT+8
 </p>
 
 <p>

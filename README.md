@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「好好休息，没事儿的，一切有我在。」</b>
+     <b>「船夫虽看不见水里的鱼群，却可以用自己的网打捞丰收，而非苍白。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 32°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 29°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>05:21 AM</b> and sets at <b>06:48 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, May 24, 2026, 17:50:50 GMT+8
+     Last refresh: Sunday, May 24, 2026, 21:17:52 GMT+8
 </p>
 
 <p>

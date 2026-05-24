@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「船夫虽看不见水里的鱼群，却可以用自己的网打捞丰收，而非苍白。」</b>
+     <b>「人生而自由，却无往不在枷锁中。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 29°C, <i>clear sky</i></b></br>Today, the sun rises at
-     <b>05:21 AM</b> and sets at <b>06:48 PM</b>.
+     Currently, the weather is: <b> 28°C, <i>clear sky</i></b></br>Today, the sun rises at
+     <b>05:20 AM</b> and sets at <b>06:48 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, May 24, 2026, 21:17:52 GMT+8
+     Last refresh: Monday, May 25, 2026, 00:56:47 GMT+8
 </p>
 
 <p>

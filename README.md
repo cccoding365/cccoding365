@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「我曾踏月而来，只因你在山中。」</b>
+     <b>「物是人非事事休，欲语泪先流。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 28°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 33°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>05:20 AM</b> and sets at <b>06:49 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, May 26, 2026, 05:01:45 GMT+8
+     Last refresh: Tuesday, May 26, 2026, 10:48:00 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「只要我们开始追赶，就已经走在通往胜利的路上。」</b>
+     <b>「行百里者半九十。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 34°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 28°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>05:20 AM</b> and sets at <b>06:49 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, May 27, 2026, 19:42:20 GMT+8
+     Last refresh: Wednesday, May 27, 2026, 23:30:22 GMT+8
 </p>
 
 <p>

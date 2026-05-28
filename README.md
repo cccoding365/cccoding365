@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「星星之火，可以燎原。」</b>
+     <b>「七八个星天外，两三点雨山前。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 29°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 29°C, <i>few clouds</i></b></br>Today, the sun rises at
      <b>05:19 AM</b> and sets at <b>06:50 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, May 28, 2026, 23:42:04 GMT+8
+     Last refresh: Friday, May 29, 2026, 02:33:36 GMT+8
 </p>
 
 <p>

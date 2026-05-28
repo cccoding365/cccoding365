@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「今年花落颜色改，明年花开复谁在？」</b>
+     <b>「星星之火，可以燎原。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 30°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 29°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>05:19 AM</b> and sets at <b>06:50 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, May 28, 2026, 19:35:04 GMT+8
+     Last refresh: Thursday, May 28, 2026, 23:42:04 GMT+8
 </p>
 
 <p>

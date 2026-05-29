@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「我们必须知道，我们终会知道。」</b>
+     <b>「成事不说，遂事不谏，既往不咎。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 27°C, <i>broken clouds</i></b></br>Today, the sun rises at
-     <b>05:19 AM</b> and sets at <b>06:50 PM</b>.
+     Currently, the weather is: <b> 25°C, <i>few clouds</i></b></br>Today, the sun rises at
+     <b>05:19 AM</b> and sets at <b>06:51 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, May 29, 2026, 22:57:17 GMT+8
+     Last refresh: Saturday, May 30, 2026, 02:29:08 GMT+8
 </p>
 
 <p>

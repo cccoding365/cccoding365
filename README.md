@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「没有永远的敌人或朋友，只有永远的责任。」</b>
+     <b>「我们登上并非我们所选择的舞台，演出并非我们所选择的剧本。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, May 31, 2026, 11:25:46 GMT+8
+     Last refresh: Sunday, May 31, 2026, 15:41:33 GMT+8
 </p>
 
 <p>

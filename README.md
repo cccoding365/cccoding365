@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「我们的时代还没到来，有的人死后方生。」</b>
+     <b>「没有永远的敌人或朋友，只有永远的责任。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 25°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 30°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>05:19 AM</b> and sets at <b>06:51 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, May 31, 2026, 04:51:25 GMT+8
+     Last refresh: Sunday, May 31, 2026, 11:25:46 GMT+8
 </p>
 
 <p>

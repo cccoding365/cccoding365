@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「黑发不知勤学早，白首方悔读书迟。」</b>
+     <b>「料得年年断肠处，明月夜，短松冈。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, June 04, 2026, 00:40:18 GMT+8
+     Last refresh: Thursday, June 04, 2026, 06:26:29 GMT+8
 </p>
 
 <p>

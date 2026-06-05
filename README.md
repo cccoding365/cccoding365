@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「水光潋滟晴方好，山色空蒙雨亦奇。」</b>
+     <b>「掌中舞罢箫声绝，三十六宫秋夜长。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 27°C, <i>moderate rain</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 24°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>05:18 AM</b> and sets at <b>06:53 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, June 05, 2026, 16:02:57 GMT+8
+     Last refresh: Friday, June 05, 2026, 22:41:25 GMT+8
 </p>
 
 <p>

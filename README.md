@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「We shall never surrender!」</b>
+     <b>「美术之为物，欲者不观，观者不欲。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, June 07, 2026, 21:44:17 GMT+8
+     Last refresh: Monday, June 08, 2026, 01:11:26 GMT+8
 </p>
 
 <p>

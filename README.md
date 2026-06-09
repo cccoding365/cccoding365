@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「为遇一人而入红尘，人去我亦去，此生不留尘」</b>
+     <b>「似水流年是一个人所有的一切，只有这个东西，才真正归你所有。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, June 09, 2026, 22:40:49 GMT+8
+     Last refresh: Wednesday, June 10, 2026, 01:58:29 GMT+8
 </p>
 
 <p>

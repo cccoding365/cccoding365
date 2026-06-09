@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「草木也知愁，韶华竟白头。」</b>
+     <b>「每个人的生命里，都有最艰难的那一年，将人生变得美好而辽阔。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, June 09, 2026, 10:45:36 GMT+8
+     Last refresh: Tuesday, June 09, 2026, 15:42:33 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「人性一个最特别的弱点就是：在意别人如何看待自己。」</b>
+     <b>「听风雪喧嚷，看流星在飞翔； 我的心向我呼唤：去动荡的远方……」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 22°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 24°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>05:18 AM</b> and sets at <b>06:56 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, June 11, 2026, 05:56:28 GMT+8
+     Last refresh: Thursday, June 11, 2026, 11:33:40 GMT+8
 </p>
 
 <p>

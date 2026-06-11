@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「黑发不知勤学早，白首方悔读书迟。」</b>
+     <b>「功崇惟志，业广惟勤。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, June 12, 2026, 02:43:54 GMT+8
+     Last refresh: Friday, June 12, 2026, 05:58:43 GMT+8
 </p>
 
 <p>

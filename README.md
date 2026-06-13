@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「且视他人之疑目如盏盏鬼火，大胆地去你的夜路。」</b>
+     <b>「人性一个最特别的弱点就是：在意别人如何看待自己。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, June 13, 2026, 15:42:07 GMT+8
+     Last refresh: Saturday, June 13, 2026, 18:24:31 GMT+8
 </p>
 
 <p>

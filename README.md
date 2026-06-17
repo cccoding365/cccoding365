@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「该如何描述光，不过是穿透于指尖的朦胧和希望。」</b>
+     <b>「实践是检验真理的唯一标准。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, June 17, 2026, 16:58:53 GMT+8
+     Last refresh: Wednesday, June 17, 2026, 23:19:55 GMT+8
 </p>
 
 <p>

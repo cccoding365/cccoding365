@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「将盈耆欲，长好恶，则性命之情病矣。」</b>
+     <b>「春蚕到死丝方尽，蜡炬成灰泪始干。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 27°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 26°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>05:19 AM</b> and sets at <b>06:58 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, June 20, 2026, 18:29:22 GMT+8
+     Last refresh: Saturday, June 20, 2026, 21:52:47 GMT+8
 </p>
 
 <p>

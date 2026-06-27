@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「三十功名尘与土，八千里路云和月。」</b>
+     <b>「莫等闲，白了少年头，空悲切。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, June 28, 2026, 01:05:24 GMT+8
+     Last refresh: Sunday, June 28, 2026, 04:57:23 GMT+8
 </p>
 
 <p>

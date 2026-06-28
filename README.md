@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「人之生，气之聚也；聚则为生，散则为死。若死生之徒，吾又何患！」</b>
+     <b>「死亡不属于工人阶级！」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, June 28, 2026, 15:47:08 GMT+8
+     Last refresh: Sunday, June 28, 2026, 18:24:20 GMT+8
 </p>
 
 <p>

@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「十年磨一剑，霜刃未曾试。」</b>
+     <b>「至暗侵蚀时，夜色亦会闪烁。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, June 28, 2026, 21:28:07 GMT+8
+     Last refresh: Monday, June 29, 2026, 01:04:31 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「我爱你，可跟你又有什么关系？」</b>
+     <b>「公民们，庇护所即将关闭，感谢所有人，再见。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 29°C, <i>scattered clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 29°C, <i>broken clouds</i></b></br>Today, the sun rises at
      <b>05:22 AM</b> and sets at <b>07:00 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, July 02, 2026, 10:52:03 GMT+8
+     Last refresh: Thursday, July 02, 2026, 15:26:52 GMT+8
 </p>
 
 <p>

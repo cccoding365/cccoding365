@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「应该在肩膀上长着自己的脑袋。」</b>
+     <b>「悟已往之不谏，知来者之可追。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 29°C, <i>scattered clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 28°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>05:25 AM</b> and sets at <b>06:59 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, July 09, 2026, 18:55:18 GMT+8
+     Last refresh: Thursday, July 09, 2026, 22:48:41 GMT+8
 </p>
 
 <p>

@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「大多人都活在平静的绝望中，不要逆来顺受，要破茧而出。」</b>
+     <b>「悲剧，是把美好的东西毁灭给人看。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, July 16, 2026, 04:56:00 GMT+8
+     Last refresh: Thursday, July 16, 2026, 10:11:13 GMT+8
 </p>
 
 <p>

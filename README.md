@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「精神病院的围墙外是疯狂，墙内才是清醒。」</b>
+     <b>「岂不罹凝寒？松柏有本性。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, July 27, 2026, 19:15:10 GMT+8
+     Last refresh: Monday, July 27, 2026, 22:23:20 GMT+8
 </p>
 
 <p>

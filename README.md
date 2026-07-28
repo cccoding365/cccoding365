@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「取法于上，仅得为中；取法于中，故为其下。」</b>
+     <b>「自立者人恒立之，自助者天助之。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, July 28, 2026, 18:29:57 GMT+8
+     Last refresh: Tuesday, July 28, 2026, 21:55:05 GMT+8
 </p>
 
 <p>

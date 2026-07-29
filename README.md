@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「黄粱一梦，山水万重，人间总相逢。」</b>
+     <b>「我们终此一生，就是要摆脱他人的期待，找到真正的自己。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, July 30, 2026, 01:11:47 GMT+8
+     Last refresh: Thursday, July 30, 2026, 04:51:12 GMT+8
 </p>
 
 <p>

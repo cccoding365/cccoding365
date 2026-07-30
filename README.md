@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「我们终此一生，就是要摆脱他人的期待，找到真正的自己。」</b>
+     <b>「为遇一人入红尘，人去我亦去，此生不留尘。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, July 30, 2026, 04:51:12 GMT+8
+     Last refresh: Thursday, July 30, 2026, 10:00:17 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「宁不知倾城与倾国。佳人难再得。」</b>
+     <b>「这些破烂就留给你们了！」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 28°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 27°C, <i>light rain</i></b></br>Today, the sun rises at
      <b>05:36 AM</b> and sets at <b>06:51 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, August 02, 2026, 17:51:59 GMT+8
+     Last refresh: Sunday, August 02, 2026, 21:11:28 GMT+8
 </p>
 
 <p>

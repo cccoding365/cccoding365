@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「在某种意义上说即令这世界全不存在，音乐却还存在。」</b>
+     <b>「须知政权是由枪杆子中取得的。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, August 03, 2026, 04:49:52 GMT+8
+     Last refresh: Monday, August 03, 2026, 10:26:27 GMT+8
 </p>
 
 <p>

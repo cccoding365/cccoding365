@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「须知政权是由枪杆子中取得的。」</b>
+     <b>「所谓辉煌的人生，不过是欲望的囚徒。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, August 03, 2026, 10:26:27 GMT+8
+     Last refresh: Monday, August 03, 2026, 14:55:19 GMT+8
 </p>
 
 <p>

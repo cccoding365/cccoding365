@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「死生，命也，其有夜旦之常，天也。人之有所不得与，皆物之情也。」</b>
+     <b>「没办法获胜，那就别获胜，只做快乐的小人物就可以了。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, August 06, 2026, 18:34:02 GMT+8
+     Last refresh: Thursday, August 06, 2026, 21:56:03 GMT+8
 </p>
 
 <p>

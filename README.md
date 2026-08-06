@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「人生而自由，却无往不在枷锁中。」</b>
+     <b>「死生，命也，其有夜旦之常，天也。人之有所不得与，皆物之情也。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 31°C, <i>few clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 28°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>05:38 AM</b> and sets at <b>06:49 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, August 06, 2026, 14:25:30 GMT+8
+     Last refresh: Thursday, August 06, 2026, 18:34:02 GMT+8
 </p>
 
 <p>

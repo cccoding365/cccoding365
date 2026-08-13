@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「情动于中而形于言，言之不足，故嗟叹之，嗟叹之不足，故永歌之。」</b>
+     <b>「不幸的人最怕别人说他们的幸福。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 30°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 28°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>05:41 AM</b> and sets at <b>06:44 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, August 13, 2026, 17:07:00 GMT+8
+     Last refresh: Thursday, August 13, 2026, 20:59:29 GMT+8
 </p>
 
 <p>

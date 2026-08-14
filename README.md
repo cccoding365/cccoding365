@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「孤独不是一种脾性，而是一种无奈。」</b>
+     <b>「言念君子温其如玉」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 29°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 27°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>05:41 AM</b> and sets at <b>06:43 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, August 14, 2026, 09:36:47 GMT+8
+     Last refresh: Friday, August 14, 2026, 13:27:57 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「行远自迩，登高自卑。」</b>
+     <b>「君子不重，则不威，学则不固。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 28°C, <i>scattered clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 28°C, <i>broken clouds</i></b></br>Today, the sun rises at
      <b>05:44 AM</b> and sets at <b>06:38 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, August 20, 2026, 00:25:46 GMT+8
+     Last refresh: Thursday, August 20, 2026, 04:20:59 GMT+8
 </p>
 
 <p>

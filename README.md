@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「宠辱不惊，看庭前花开花落；去留无意，望天上云卷云舒。」</b>
+     <b>「行远自迩，登高自卑。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 28°C, <i>light rain</i></b></br>Today, the sun rises at
-     <b>05:43 AM</b> and sets at <b>06:39 PM</b>.
+     Currently, the weather is: <b> 28°C, <i>scattered clouds</i></b></br>Today, the sun rises at
+     <b>05:44 AM</b> and sets at <b>06:38 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, August 19, 2026, 20:37:02 GMT+8
+     Last refresh: Thursday, August 20, 2026, 00:25:46 GMT+8
 </p>
 
 <p>

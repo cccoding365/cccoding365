@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「希望你永远都笑的像一束阳光，你是我的阳光。」</b>
+     <b>「认真的思索，真诚的明辨是非，有这种态度，大概可算是善良吧。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 30°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 28°C, <i>light rain</i></b></br>Today, the sun rises at
      <b>05:44 AM</b> and sets at <b>06:38 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, August 20, 2026, 12:32:11 GMT+8
+     Last refresh: Thursday, August 20, 2026, 16:32:10 GMT+8
 </p>
 
 <p>

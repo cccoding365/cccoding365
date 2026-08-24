@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「流光容易把人抛，红了樱桃，绿了芭蕉。」</b>
+     <b>「别问我的心里有没有你，我余光中都是你。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, August 24, 2026, 16:41:52 GMT+8
+     Last refresh: Monday, August 24, 2026, 20:39:48 GMT+8
 </p>
 
 <p>

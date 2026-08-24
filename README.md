@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「别问我的心里有没有你，我余光中都是你。」</b>
+     <b>「去年今日此门中，人面桃花相映红。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 27°C, <i>moderate rain</i></b></br>Today, the sun rises at
-     <b>05:45 AM</b> and sets at <b>06:34 PM</b>.
+     Currently, the weather is: <b> 26°C, <i>moderate rain</i></b></br>Today, the sun rises at
+     <b>05:46 AM</b> and sets at <b>06:33 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, August 24, 2026, 20:39:48 GMT+8
+     Last refresh: Tuesday, August 25, 2026, 00:31:06 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「去年今日此门中，人面桃花相映红。」</b>
+     <b>「二十四桥明月夜，玉人何处教吹箫？」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 26°C, <i>moderate rain</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 26°C, <i>light rain</i></b></br>Today, the sun rises at
      <b>05:46 AM</b> and sets at <b>06:33 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, August 25, 2026, 00:31:06 GMT+8
+     Last refresh: Tuesday, August 25, 2026, 04:24:14 GMT+8
 </p>
 
 <p>

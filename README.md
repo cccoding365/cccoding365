@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「玲珑骰子安红豆，入骨相思知不知。」</b>
+     <b>「酒入愁肠，化作相思泪。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, August 25, 2026, 16:36:17 GMT+8
+     Last refresh: Tuesday, August 25, 2026, 20:38:32 GMT+8
 </p>
 
 <p>

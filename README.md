@@ -55,13 +55,13 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「人之生，气之聚也；聚则为生，散则为死。若死生之徒，吾又何患！」</b>
+     <b>「纵星河万里，亦不及你一垂眸。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 28°C, <i>overcast clouds</i></b></br>Today, the sun rises at
-     <b>05:48 AM</b> and sets at <b>06:29 PM</b>.
+     Currently, the weather is: <b> 27°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     <b>05:48 AM</b> and sets at <b>06:28 PM</b>.
 </p>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, August 30, 2026, 23:56:55 GMT+8
+     Last refresh: Monday, August 31, 2026, 03:03:46 GMT+8
 </p>
 
 <p>

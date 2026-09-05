@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「只有当不幸真的到来时，我们才会怀念和渴望那些逝去的美好时光。」</b>
+     <b>「凛冬将至」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 29°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 31°C, <i>scattered clouds</i></b></br>Today, the sun rises at
      <b>05:50 AM</b> and sets at <b>06:23 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, September 05, 2026, 10:42:44 GMT+8
+     Last refresh: Saturday, September 05, 2026, 16:00:11 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「生当作人杰，死亦为鬼雄。」</b>
+     <b>「只有用心灵才能看得清事物本质，真正重要的东西是肉眼无法看见的」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 27°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 28°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>05:52 AM</b> and sets at <b>06:15 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, September 12, 2026, 06:10:58 GMT+8
+     Last refresh: Saturday, September 12, 2026, 10:54:33 GMT+8
 </p>
 
 <p>

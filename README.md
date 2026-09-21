@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「我大将军一言九鼎，战无不胜。」</b>
+     <b>「美术之为物，欲者不观，观者不欲。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 30°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 29°C, <i>broken clouds</i></b></br>Today, the sun rises at
      <b>05:55 AM</b> and sets at <b>06:06 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, September 21, 2026, 11:04:37 GMT+8
+     Last refresh: Monday, September 21, 2026, 17:32:39 GMT+8
 </p>
 
 <p>

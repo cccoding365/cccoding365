@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「朋友的可贵，就在于自由。」</b>
+     <b>「征服的荣光背后，是无数的悲泣与哀号。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, September 22, 2026, 01:46:14 GMT+8
+     Last refresh: Tuesday, September 22, 2026, 06:58:35 GMT+8
 </p>
 
 <p>

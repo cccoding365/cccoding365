@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「征服的荣光背后，是无数的悲泣与哀号。」</b>
+     <b>「君子不重，则不威，学则不固。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 27°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 30°C, <i>scattered clouds</i></b></br>Today, the sun rises at
      <b>05:56 AM</b> and sets at <b>06:05 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, September 22, 2026, 06:58:35 GMT+8
+     Last refresh: Tuesday, September 22, 2026, 11:04:19 GMT+8
 </p>
 
 <p>

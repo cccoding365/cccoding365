@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「可怜之人必有可恨之处，可恨之人必有可悲之苦。」</b>
+     <b>「只羡忘羡不羡仙，说是天天就天天」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 30°C, <i>scattered clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 27°C, <i>few clouds</i></b></br>Today, the sun rises at
      <b>05:56 AM</b> and sets at <b>06:04 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, September 23, 2026, 17:01:24 GMT+8
+     Last refresh: Wednesday, September 23, 2026, 23:59:45 GMT+8
 </p>
 
 <p>

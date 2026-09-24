@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「信心这个东西，什么时候都像个高楼大厦，但是里面会长白蚁。」</b>
+     <b>「人生天地间，忽如远行客。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 26°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 30°C, <i>scattered clouds</i></b></br>Today, the sun rises at
      <b>05:56 AM</b> and sets at <b>06:02 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Thursday, September 24, 2026, 06:38:40 GMT+8
+     Last refresh: Thursday, September 24, 2026, 10:55:40 GMT+8
 </p>
 
 <p>

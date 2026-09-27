@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「人只有活着时，才有肉身。」</b>
+     <b>「人们，你们怎么能因为贫穷，就以物遮目，而变化得如此愚蠢呢？」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 27°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 33°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>05:57 AM</b> and sets at <b>05:59 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, September 27, 2026, 06:20:04 GMT+8
+     Last refresh: Sunday, September 27, 2026, 11:23:52 GMT+8
 </p>
 
 <p>

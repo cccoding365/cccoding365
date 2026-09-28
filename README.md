@@ -55,7 +55,7 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「你并非爱的目的，而是让我去爱的动力。」</b>
+     <b>「以眼还眼，世界只会更盲目。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Monday, September 28, 2026, 11:21:34 GMT+8
+     Last refresh: Monday, September 28, 2026, 18:28:19 GMT+8
 </p>
 
 <p>

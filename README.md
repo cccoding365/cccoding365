@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「我的辫子长在头上，诸君的辫子长在心里。」</b>
+     <b>「不是每一次出走，都能再回去的。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 33°C, <i>scattered clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 30°C, <i>scattered clouds</i></b></br>Today, the sun rises at
      <b>05:58 AM</b> and sets at <b>05:56 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Wednesday, September 30, 2026, 11:45:41 GMT+8
+     Last refresh: Wednesday, September 30, 2026, 18:15:01 GMT+8
 </p>
 
 <p>

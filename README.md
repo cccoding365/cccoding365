@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「行百里者半九十。」</b>
+     <b>「情深不寿，强极则辱，谦谦君子，温润如玉。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 31°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 29°C, <i>broken clouds</i></b></br>Today, the sun rises at
      <b>05:59 AM</b> and sets at <b>05:54 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, October 02, 2026, 11:50:06 GMT+8
+     Last refresh: Friday, October 02, 2026, 18:16:20 GMT+8
 </p>
 
 <p>

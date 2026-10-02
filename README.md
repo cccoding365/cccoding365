@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「生命，就是幸存。幸存的表面意义是继续活着，但也是在死后活着。」</b>
+     <b>「行百里者半九十。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 28°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 31°C, <i>broken clouds</i></b></br>Today, the sun rises at
      <b>05:59 AM</b> and sets at <b>05:54 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, October 02, 2026, 07:39:04 GMT+8
+     Last refresh: Friday, October 02, 2026, 11:50:06 GMT+8
 </p>
 
 <p>

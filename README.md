@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「前途是光明的，道路是曲折的。」</b>
+     <b>「那些听不见音乐的人以为跳舞的人疯了。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 29°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 25°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:02 AM</b> and sets at <b>05:46 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Saturday, October 10, 2026, 12:05:49 GMT+8
+     Last refresh: Saturday, October 10, 2026, 22:10:30 GMT+8
 </p>
 
 <p>

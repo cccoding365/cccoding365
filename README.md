@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「Stay hungry, Stay foolish.」</b>
+     <b>「东隅已逝，桑榆非晚。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 26°C, <i>clear sky</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 25°C, <i>clear sky</i></b></br>Today, the sun rises at
      <b>06:06 AM</b> and sets at <b>05:39 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, October 18, 2026, 02:06:57 GMT+8
+     Last refresh: Sunday, October 18, 2026, 05:56:50 GMT+8
 </p>
 
 <p>

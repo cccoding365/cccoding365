@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「天总会亮的，没有太阳也会亮的。」</b>
+     <b>「言念君子，温其如玉。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 28°C, <i>overcast clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 25°C, <i>broken clouds</i></b></br>Today, the sun rises at
      <b>06:10 AM</b> and sets at <b>05:33 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Sunday, October 25, 2026, 16:54:26 GMT+8
+     Last refresh: Sunday, October 25, 2026, 23:28:09 GMT+8
 </p>
 
 <p>

@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「有三样东西是无法隐瞒的，咳嗽、穷困和爱；你想隐瞒越欲盖弥彰。」</b>
+     <b>「尔辈不能究物理。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 25°C, <i>few clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 23°C, <i>overcast clouds</i></b></br>Today, the sun rises at
      <b>06:17 AM</b> and sets at <b>05:25 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Friday, November 06, 2026, 03:25:42 GMT+8
+     Last refresh: Friday, November 06, 2026, 08:42:35 GMT+8
 </p>
 
 <p>

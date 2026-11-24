@@ -55,12 +55,12 @@
 
 <h3>Sentence shared with you</h3>
 <p>
-     <b>「皑如山上雪，皎若云间月。」</b>
+     <b>「山河远阔，人间烟火，无一是你，无一不是你。」</b>
 </p>
 
 <h3>Welcome to Amoy</h3>
 <p>
-     Currently, the weather is: <b> 20°C, <i>broken clouds</i></b></br>Today, the sun rises at
+     Currently, the weather is: <b> 17°C, <i>light intensity shower rain</i></b></br>Today, the sun rises at
      <b>06:29 AM</b> and sets at <b>05:19 PM</b>.
 </p>
 </p>
@@ -69,7 +69,7 @@
 
 <p>
      This <i>README</i> file is generated <b>every 4 hours</b>!<br />
-     Last refresh: Tuesday, November 24, 2026, 03:46:01 GMT+8
+     Last refresh: Tuesday, November 24, 2026, 12:33:43 GMT+8
 </p>
 
 <p>
